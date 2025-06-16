@@ -2,7 +2,7 @@
 
 
 # **Course Prerequisites**  
-- **Instructor Approval:** Required.  
+- **Instructor Approval:** None 
 - **Programming Background:** A strong foundation in programming is necessary.  
 - **Independent Research:** Commitment to conducting independent research is expected.  
 
