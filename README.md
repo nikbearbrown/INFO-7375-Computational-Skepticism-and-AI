@@ -132,7 +132,7 @@ By the end of this course, students will:
 
 ## Course Materials
 **Textbooks**
-- Title: Botspeak - The Nine Pillars of AI Fluency by Rick Dakan, Joseph Feller, and Anthropic
+- Title: Botspeak - The Nine Pillars of AI Fluency by Nik Bear Brown
 - Title: Computational Skepticism for AI by Nik Bear Brown (Free Online)
 - Publisher: Bear Brown & Company, LLC
 - Publication Date: May 2025
