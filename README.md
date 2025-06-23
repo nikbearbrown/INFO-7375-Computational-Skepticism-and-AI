@@ -1,4 +1,4 @@
-# Introduction: Mastering Botspeak - The Nine Pillars of AI Fluency
+# Botspeak - The Nine Pillars of AI Fluency
 
 In an era where artificial intelligence systems increasingly shape our work and daily lives, developing AI Fluency—what we call "Botspeak"—has become as essential as digital literacy was at the dawn of the internet age. This book introduces a comprehensive framework for human-AI collaboration that goes beyond superficial tips and temporary techniques, presenting a cohesive set of cognitive tools that will remain relevant as AI technology evolves.
 
@@ -76,14 +76,14 @@ Ethical Reasoning ensures that AI collaboration remains aligned with principles 
 
 Stochastic Reasoning acknowledges the fundamentally probabilistic nature of AI systems, helping users interpret varying outputs through the lens of Hume's problem of induction—the philosophical challenge of justifying predictive reasoning.
 
-### 7. Learning Integration
+### 7. Learning by Doing
 
 - **Experiential Pattern Recognition**: Building intuition through repeated interaction
 - **Deliberate Practice**: Structured skill development through focused exercises
 - **Feedback Incorporation**: Systematic improvement based on outcome evaluation
 - **Knowledge Transfer**: Applying insights across different AI systems and use cases
 
-Learning Integration emphasizes the development of Botspeak as an ongoing practice of critical thinking, continuously refining our approach to AI collaboration through systematic analysis of successes and failures.
+Learning by Doing emphasizes the development of Botspeak as an ongoing practice of critical thinking, continuously refining our approach to AI collaboration through systematic analysis of successes and failures.
 
 ### 8. Rapid Prototyping
 
