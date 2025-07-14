@@ -139,32 +139,6 @@ Corbett-Davies, S., Pierson, E., Feller, A., Goel, S., & Huq, A. (2017). "Algori
 - German Credit Dataset: Credit scoring with protected attributes
 - Law School Admissions Dataset: Educational fairness analysis
 
-## Assessment Rubric
-
-### Technical Proficiency (40%)
-- Correct implementation of bias detection algorithms
-- Appropriate selection and application of statistical methods
-- Quality of code and documentation
-- Proper use of detection tools and frameworks
-
-### Methodological Rigor (30%)
-- Systematic approach to bias detection design
-- Appropriate handling of statistical assumptions
-- Thorough evaluation of detection method limitations
-- Clear documentation of methodology and rationale
-
-### Critical Analysis (20%)
-- Depth of philosophical and theoretical understanding
-- Quality of critique and alternative perspectives
-- Integration of multiple viewpoints and approaches
-- Awareness of broader implications and limitations
-
-### Communication (10%)
-- Clarity of written and oral presentations
-- Effective visualization of bias patterns and results
-- Appropriate use of technical terminology
-- Ability to explain complex concepts to diverse audiences
-
 ## Connection to Final Project
 
 Students focusing on bias detection in their final projects should demonstrate mastery of the methodologies and tools covered in this module. Projects should include:
