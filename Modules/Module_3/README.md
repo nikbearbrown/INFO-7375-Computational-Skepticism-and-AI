@@ -71,22 +71,20 @@ By the end of this module, students will be able to:
 
 ## References
 
-1. Gebru, T., et al. (2021). "Datasheets for Datasets." Communications of the ACM.
+1. Gebru, T., et al. (2021). "Datasheets for Datasets." Communications of the ACM[Link](https://cacm.acm.org/research/datasheets-for-datasets/)
 
-2. Barocas, S., Hardt, M., & Narayanan, A. (2023). "Fairness and Machine Learning: Limitations and Opportunities."
+2. Barocas, S., Hardt, M., & Narayanan, A. (2023). "Fairness and Machine Learning: Limitations and Opportunities"[Link](https://mitpress.ublish.com/book/fairness-and-machine-learning-limitations-and-opportunities)
 
-3. Benjamin, R. (2019). "Race After Technology: Abolitionist Tools for the New Jim Code." Polity.
+3. Benjamin, R. (2019). "Race After Technology: Abolitionist Tools for the New Jim Code." Polity[Link](https://www.politybooks.com/bookdetail?book_slug=race-after-technology-abolitionist-tools-for-the-new-jim-code--9781509526390)
 
-4. D'Ignazio, C., & Klein, L. F. (2020). "Data Feminism." MIT Press.
-
-5. Brown, N. B. (2025). "Botspeak - The Nine Pillars of AI Fluency," Chapter 5: Ethical Reasoning.
+4. D'Ignazio, C., & Klein, L. F. (2020). "Data Feminism." MIT Press[Link](https://data-feminism.mitpress.mit.edu/)
 
 ## Recommended Tools
 
-- Fairlearn: Microsoft's toolkit for assessing and improving fairness in AI systems
-- AI Fairness 360: IBM's comprehensive toolkit for bias detection and mitigation
-- What-If Tool: Google's interactive visual interface for understanding model behavior
-- Aequitas: An open-source bias audit toolkit for machine learning developers
+- Fairlearn: Microsoft's toolkit for assessing and improving fairness in AI systems [Link](https://github.com/fairlearn/fairlearn)
+- AI Fairness 360: IBM's comprehensive toolkit for bias detection and mitigation [Link](https://github.com/Trusted-AI/AIF360)
+- What-If Tool: Google's interactive visual interface for understanding model behavior [Link](https://pair-code.github.io/what-if-tool/)
+- Aequitas: An open-source bias audit toolkit for machine learning developers [Link](https://dssg.github.io/aequitas/)
 
 ## Resources
 
