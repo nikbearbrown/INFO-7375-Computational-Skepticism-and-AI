@@ -169,8 +169,6 @@ Analyze a real-world dataset for various forms of bias, documenting findings and
 ## Key Resources
 
 ### Primary Readings
-- Selected chapters from "Botspeak - The Nine Pillars of AI Fluency" by Nik Bear Brown
-- Relevant sections from "Computational Skepticism for AI" by Nik Bear Brown
 - Plato's "Allegory of the Cave" (Republic, Book VII)
 - Popper, K. "The Logic of Scientific Discovery" (sections on falsifiability and empirical testing)
 
