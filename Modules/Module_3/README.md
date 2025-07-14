@@ -96,8 +96,7 @@ By the end of this module, students will be able to:
 
 ### Online Resources
 - [Fairness in Machine Learning Course](https://fairmlclass.github.io/)
-- [Ethics in AI Resource Center](https://ai.ethicscenters.org/)
-- [Tutorial on Fairness in AI](https://developers.google.com/machine-learning/fairness-overview/)
+- [Tutorial on Fairness in AI](https://sites.google.com/view/fairness-tutorial/home?authuser=0)
 
 ## Connection to Final Project
 
