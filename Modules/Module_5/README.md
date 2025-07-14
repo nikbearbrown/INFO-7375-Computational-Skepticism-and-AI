@@ -1,417 +1,260 @@
-# Lecture: What Is Agentic AI?
+# Module 5: Probabilistic Reasoning and Uncertainty in AI
 
-These are lecture notes for Nik Bear Brown's July 9, 2025 Northeastern course
-* INFO 7375  Prompt Engineering for Generative AI*
+## Overview
 
-**What Is Agentic AI?**
-Agentic AI represents the next frontier in artificial intelligence—systems that use sophisticated reasoning and iterative planning to autonomously solve complex, multi-step problems. Unlike traditional AI chatbots that simply provide responses based on single interactions, agentic AI can independently analyze challenges, develop strategies, and execute tasks by ingesting vast amounts of data from multiple sources and third-party applications.
+This module explores the fundamental role of probability and uncertainty in AI systems, examining how we can reason about and communicate uncertainty in AI predictions and decisions. Students will develop both theoretical understanding and practical skills necessary to work with probabilistic AI systems while critically evaluating the philosophical foundations of probability itself.
 
-Consider the difference:
-- **Traditional AI chatbots** use generative AI to provide responses based on a single interaction. A person makes a query and the chatbot uses natural language processing to reply.
-- **Agentic AI systems** go further by maintaining ongoing awareness, making decisions, and taking actions across multiple steps to achieve goals.
+Drawing on philosophical frameworks about induction, causation, and the nature of probability, this module challenges students to question whether probabilities represent objective features of reality or useful human constructs. Through hands-on work with probability distributions and uncertainty quantification, students will learn to calibrate confidence in AI systems appropriately.
 
-For example, an AI agent for customer service could operate beyond simple question-answering. With agentic AI, it could check a user's outstanding balance, recommend which accounts could pay it off, and wait for the user's decision to complete the transaction when prompted—handling the entire workflow autonomously.
+## Learning Objectives
 
-This lecture will explore how agentic AI is set to enhance productivity and operations across industries. We'll examine how businesses are implementing agentic AI to personalize customer service, streamline software development, enhance healthcare delivery, and transform various other domains.
+By the end of this module, students will be able to:
 
-In this introductory lecture, we'll cover:
-1. The foundations of language models and their evolution into agentic systems
-2. The taxonomy of AI agents, from simple reflex to sophisticated learning agents
-3. The four-step process (Perceive, Reason, Act, Learn) that powers agentic AI
-4. Key design patterns for implementing agentic systems
-5. Real-world applications demonstrating agentic AI's transformative potential
-6. The critical role of communication protocols in enabling multi-agent systems
-7. Implementation strategies for organizations of different sizes
-8. Future challenges and directions as the field continues to evolve
-
-By the end of this lecture, you'll understand what sets agentic AI apart from traditional AI approaches and why it represents such a significant advancement in artificial intelligence capabilities.
+- Analyze Hume's problem of induction and its implications for AI predictions
+- Distinguish between Bayesian and frequentist approaches to probability in AI contexts
+- Implement uncertainty quantification techniques for AI systems
+- Evaluate and communicate AI confidence levels appropriately
+- Apply the Botspeak pillars of Stochastic Reasoning and Theoretical Foundation to uncertainty management
+- Design systems that account for and communicate uncertainty effectively
+- Assess the reliability and calibration of probabilistic AI predictions
 
+## Philosophical Foundations
 
-
-## 1. The Evolution of AI: From Language Models to Agents
-
-### What are Language Models?
-At their core, language models are predictive systems that generate text by determining the most probable next word in a sequence:
-
-- **Example:** Given "The students open their," a model might predict "books" as the next word
-- This process continues iteratively to create coherent text
-- Modern language models undergo a two-phase development:
-  - **Pre-training:** Learning from vast text corpora through unsupervised learning
-  - **Post-training:** Specialized training including instruction following and reinforcement learning from human feedback (RLHF)
-
-### The Limitations of Traditional Language Models
-Despite their capabilities, language models face several challenges:
-
-- **Hallucination:** Generation of incorrect or fabricated information
-- **Knowledge cutoff:** Temporal limits to training data
-- **Lack of attribution:** Difficulty in identifying information sources
-- **Limited interaction:** Inability to engage with external systems
-- **Context constraints:** Maximum input size limitations
-
-### The Emergence of Agentic AI
-Agentic AI represents the next frontier—systems that use sophisticated reasoning and iterative planning to autonomously solve complex, multi-step problems:
-
-- Unlike traditional AI chatbots that provide responses based on single interactions
-- Can independently analyze challenges, develop strategies, and execute tasks
-- Ingest data from multiple sources and third-party applications
-- Combine language model reasoning with external tool capabilities
-
-## 2. The Five Types of AI Agents
-
-AI agents are classified based on their intelligence, decision-making processes, and environmental interactions:
-
-### 1. Simple Reflex Agent
-- Makes decisions based solely on current perceptions using predefined rules
-- No memory of past states or actions
-- **Example:** A thermostat that turns on heat when temperature drops below a threshold
-- **Characteristics:** Fast execution, effective only in predictable environments
-
-### 2. Model-Based Reflex Agent
-- Incorporates an internal model of the world
-- Maintains state that tracks aspects not currently visible
-- **Example:** A robotic vacuum that remembers cleaned areas and obstacle locations
-- **Characteristics:** Functions in partially observable environments, still primarily reactive
-
-### 3. Goal-Based Agent
-- Makes decisions to achieve specific objectives
-- Simulates future outcomes of possible actions
-- **Example:** A self-driving car selecting routes to reach a destination
-- **Characteristics:** Plans ahead rather than just reacting, adapts to new situations
-
-### 4. Utility-Based Agent
-- Evaluates how desirable different outcomes are
-- Assigns utility values to possible future states
-- **Example:** Drone delivery system optimizing for speed, safety, and efficiency
-- **Characteristics:** Ranks options based on desirability, handles trade-offs
-
-### 5. Learning Agent
-- Improves performance over time based on experience
-- Contains four components: performance element, critic, learning element, problem generator
-- **Example:** AI chess bot analyzing games and refining strategy
-- **Characteristics:** Adapts to changing environments, most closely resembles human learning
-
-### Multi-Agent Systems
-- Multiple agents operating in a shared environment
-- Combines different agent types to leverage respective strengths
-- Addresses complex problems single agents cannot solve effectively
-- Requires standardized communication protocols
-
-## 3. The Four-Step Process of Agentic AI
-
-Agentic AI operates through a systematic four-step process:
-
-### 1. Perceive
-- Gather and process data from various sources
-- Extract meaningful features and identify relevant entities
-- Connect to databases, APIs, and digital interfaces
-
-### 2. Reason
-- Use language models as the orchestration engine
-- Understand tasks and generate solutions
-- Coordinate specialized models for specific functions
-- Apply techniques like retrieval-augmented generation (RAG)
-
-### 3. Act
-- Integrate with external tools via APIs
-- Execute tasks based on formulated plans
-- Implement guardrails to ensure appropriate actions
-- Interface with databases, web services, and applications
-
-### 4. Learn
-- Continuously improve through feedback loops
-- Create a "data flywheel" where interaction data enhances models
-- Adapt to become more effective over time
-- Refine strategies based on success metrics
-
-## 4. Key Design Patterns for Agentic AI
-
-### Planning
-- Break complex tasks into manageable subtasks
-- Generate action sequences
-- Create explicit plans before execution
-
-### Reflection
-- Evaluate and improve outputs
-- Generate initial solutions, then critique them
-- Produce improved versions based on self-assessment
-- Particularly effective for code refactoring and writing improvement
-
-### Tool Usage
-- Extend capabilities beyond text generation
-- Make API calls to external services
-- Generate and execute code in sandboxed environments
-- Query databases and retrieve information
-
-### Multi-Agent Collaboration
-- Assign specialized agents to different aspects of a task
-- Create agents with specific domain expertise
-- Implement coordination mechanisms between agents
-
-## 5. Key Design Patterns for Agentic AI
-
-### Planning
-- Break complex tasks into manageable subtasks
-- Generate action sequences
-- Create explicit plans before execution
-
-### Reflection
-- Evaluate and improve outputs
-- Generate initial solutions, then critique them
-- Produce improved versions based on self-assessment
-- Particularly effective for code refactoring and writing improvement
-
-### Tool Usage
-- Extend capabilities beyond text generation
-- Make API calls to external services
-- Generate and execute code in sandboxed environments
-- Query databases and retrieve information
-
-### Multi-Agent Collaboration
-- Assign specialized agents to different aspects of a task
-- Create agents with specific domain expertise
-- Implement coordination mechanisms between agents
-
-## 6. Real-World Applications of Agentic AI
-
-### Customer Service
-- Enhancing self-service capabilities
-- Automating routine communications
-- Reducing response times and boosting satisfaction
-- Implementing digital humans for brand representation
-
-### Content Creation
-- Generating initial drafts based on brand guidelines
-- Adapting content for different platforms
-- Scheduling and distributing across channels
-- Saving marketers approximately three hours per content piece
-
-### Software Development
-- Analyzing existing codebases
-- Identifying bugs and issues
-- Generating and testing potential fixes
-- Documenting changes and reasoning
-- Projected to automate up to 30% of work hours by 2030
-
-### Healthcare
-- Distilling critical information from medical data
-- Automating administrative tasks
-- Providing 24/7 patient support
-- Helping with treatment plan adherence
-
-### Video Analytics
-- Analyzing live or archived videos
-- Responding to natural language requests
-- Performing complex operations like video search
-- Delivering anomaly alerts and incident reports
-
-### Finance
-- Optimizing trading strategies
-- Detecting and preventing fraud
-- Managing investment portfolios
-- Assessing risk in banking applications
-- Ensuring regulatory compliance
-
-## 7. What Sets Agentic AI Apart?
-
-The key differentiators of agentic AI from traditional approaches:
-
-1. **Autonomy:** Operating independently without constant supervision
-2. **Reasoning capacity:** Adapting to novel situations beyond rule-based systems
-3. **Multi-step problem solving:** Breaking down complex tasks methodically
-4. **Learning and improvement:** Creating feedback loops for continuous enhancement
-5. **Tool integration:** Seamlessly orchestrating multiple external services
-
-## 8. AI Agent Protocols: The Communication Foundation
-
-For AI agents to work together effectively, they need standardized ways to communicate. AI Agent Protocols serve as the universal communication standards that enable different AI agents to interact and collaborate—even if they're built using different technologies or architectures.
-
-These protocols are to AI agents what HTTP is to web browsers and servers: a shared language for coordination. Leading tech companies are investing heavily in these protocols to streamline and automate enterprise workflows.
-
-### Major AI Agent Protocols
-
-#### 1. MCP (Model Context Protocol)
-**Developed by Anthropic**
-
-MCP is an open, standardized communication protocol enabling two-way interaction between LLMs (clients) and external tools or services (servers). It functions like a universal connector—seamlessly connecting AI models to any external data or tool.
-
-**Key strengths:**
-- Universal compatibility with any LLM or external tool implementing the standard
-- Real-time access to external data sources
-- Security-first design with built-in authentication mechanisms
-- Developer-friendly implementation with extensive documentation
-
-**Limitations:**
-- Primarily designed for tool integration rather than inter-agent coordination
-- Can introduce latency for simple operations
-- Requires understanding of the protocol specification
-
-**Best use cases:** AI assistants needing live external context (weather, market data, sensors), secure standardized tool integration, and real-time decision support systems.
+The module begins with an exploration of the philosophical foundations of probability and induction, examining fundamental questions about the nature of uncertainty and prediction.
 
-#### 2. A2A (Agent-to-Agent Protocol)
-**Developed by Google**
+### Core Philosophical Questions
 
-A2A is designed specifically for seamless communication, collaboration, and task execution between AI agents, regardless of vendor, framework, or architecture.
-
-**Key strengths:**
-- Cross-platform interoperability across different AI frameworks
-- Built-in task state management (created → in-progress → completed)
-- Real-time progress updates via streaming support
-- Automatic capability discovery through Agent Cards
-
-**Limitations:**
-- More complex setup compared to simpler protocols
-- Large metadata overhead for simple tasks
-- Focuses on agent-to-agent rather than agent-to-tool communication
+- Are probabilities objective features of reality or subjective human constructs?
+- How can we justify making predictions about future events based on past observations?
+- What is the relationship between statistical correlation and causal understanding?
 
-**Best use cases:** Multi-step enterprise workflows, modular AI systems requiring coordination, and asynchronous task processing across agents.
+### Critical Thinking in AI: Are probabilities meaningful, or just human-made tools?
 
-#### 3. ACP (Agent Communication Protocol)
-**Developed by IBM**
-
-ACP is an open, vendor-neutral protocol created by IBM for seamless interactions between AI agents, released under the Linux Foundation through the BeeAI project.
+This fundamental question drives our exploration of whether probability represents genuine knowledge about the world or merely useful mathematical tools for managing uncertainty. We examine the implications of different probability interpretations for AI system design and evaluation.
 
-**Key strengths:**
-- Familiar RESTful HTTP-based interface for developers
-- Support for both synchronous and asynchronous communication
-- Robust token-based security and permission system
-- Native integration with popular agent frameworks like LangGraph
-
-**Limitations:**
-- May favor IBM tools and services
-- REST overhead for high-frequency communications
-- Complex token management for authorization
-
-**Best use cases:** Complex task management systems, legacy system integration, and enterprise environments requiring robust security.
-
-#### 4. AGP (Agent Gateway Protocol)
-**Developed by Cisco**
-
-Part of Cisco's Outshift initiative, AGP aims to power a secure Internet of Agents using gRPC over HTTP/2 for high-performance, scalable agent communication.
-
-**Key strengths:**
-- High performance through gRPC over HTTP/2
-- Support for multiple patterns: request/response, pub/sub, streaming
-- Enterprise-grade security with TLS encryption and authentication
-- Optimized for distributed environments
-
-**Limitations:**
-- May be overkill for simple local agent interactions
-- Steeper learning curve than REST-based protocols
-- Requires robust network infrastructure
-
-**Best use cases:** Cross-network agent workflows, high-performance distributed systems, and event-driven architectures.
-
-#### 5. ANP (Agent Network Protocol)
-**Developed by ANP Team**
-
-ANP is an open-source protocol designed for seamless interoperability across diverse AI agents using JSON-LD, W3C DIDs, and layered architecture.
-
-**Key strengths:**
-- Uses established W3C and JSON-LD standards
-- Secure, decentralized authentication through W3C DID
-- Rich, linked data representation via JSON-LD
-- Truly open-source with no corporate backing
-
-**Limitations:**
-- Multiple standards increase implementation complexity
-- Fewer development tools and libraries available
-- JSON-LD processing can be resource-intensive
-
-**Best use cases:** Cross-domain agent interoperability, research and academic environments, and systems requiring semantic data representation.
-
-#### 6. AGORA Protocol
-**Developed at University of Oxford**
-
-AGORA is a scalable communication protocol designed for LLM-based agents that enables natural language protocol negotiation and generation.
-
-**Key strengths:**
-- Users can define workflows conversationally through natural language interface
-- Creates protocols on-demand based on user intent
-- Designed specifically for large language model agents
-- Strong academic research foundation
-
-**Limitations:**
-- May lack production-ready features
-- Requires sophisticated language models to function
-- Natural language interpretation can be inconsistent
-
-**Best use cases:** User-centric interaction models, research and prototyping environments, and dynamic workflow generation.
-
-### Multi-Protocol Strategies
-
-Most sophisticated enterprise implementations use multiple protocols together to leverage their respective strengths. Common approaches include:
-
-1. **Layered Architecture**
-   - Gateway Layer: AGP for network-level routing and security
-   - Agent Layer: A2A for agent-to-agent coordination
-   - Tool Layer: MCP for external tool integration
-
-2. **Hybrid Communication Patterns**
-   - User Request → AGORA (Natural Language) → A2A (Agent Coordination) → MCP (Tool Access)
-
-3. **Domain-Specific Protocol Selection**
-   - Internal Operations: ACP for enterprise task management
-   - External Integrations: MCP for third-party tool access
-   - Cross-Network: AGP for distributed agent communication
-
-4. **Protocol Translation Bridges**
-   - Implementing adapters that translate between different standards
-   - A2A ↔ ACP bridge for Google-IBM interoperability
-   - MCP ↔ ANP adapter for tool access in semantic environments
-
-The selection of protocols depends on organizational size, use cases, and technical requirements. Small teams might start with one protocol that best fits their primary use case, while large enterprises typically implement multi-protocol strategies with specialized teams and comprehensive translation infrastructure.
-
-## 9. Implementation Strategies
-
-### For Small Teams (1-10 developers)
-- Start with one protocol that best fits your primary use case
-- Choose based on existing expertise
-- Plan for future expansion but avoid over-engineering
-
-### For Medium Organizations (10-100 developers)
-- Implement 2-3 protocols for different domains
-- Create protocol abstraction layer to hide complexity
-- Establish protocol governance and selection criteria
-
-### For Large Enterprises (100+ developers)
-- Develop multi-protocol strategy with specialized teams
-- Build protocol translation infrastructure
-- Implement comprehensive monitoring
-
-### Universal Recommendations
-- Invest in protocol abstraction
-- Monitor standard evolution
-- Participate in the community
-- Regularly benchmark performance
-
-## 10. Future Challenges and Directions
-
-### Technical Challenges
-- Balancing autonomy and control
-- Handling uncertainty in decision-making
-- Developing frameworks for ethical decisions
-- Ensuring security and robustness
-- Standardizing protocols for interoperability
-
-### Future Directions
-- Enhanced general reasoning capabilities
-- Improved multi-agent coordination
-- More intuitive human-AI collaboration
-- Development of domain-specific expertise
-- Protocol convergence and AI-native protocols
-- Quantum-ready security protocols
-- Edge computing integration
-
-## 11. Conclusion
-
-Agentic AI represents a natural progression in artificial intelligence capabilities:
-- Extends fundamental abilities of language models through structured interaction
-- Combines planning, reflection, tool usage, and multi-agent collaboration
-- Transforms models from passive text generators into active problem-solvers
-- Works best with humans in the loop for complex decisions
-- Creates AI systems that not only respond to queries but actively work toward solving complex problems
-
-The emergence of standardized AI agent protocols represents a critical step in the maturation of the agentic AI ecosystem, enabling diverse AI agents to communicate and collaborate effectively regardless of their underlying architecture.
-
-As the field continues to develop, agentic models will become increasingly sophisticated, handling more complex tasks with greater autonomy while maintaining alignment with human intent and values.
+### Key Concepts: Hume's Problem of Induction—Can we trust AI predictions?
 
+Through the lens of Hume's famous critique of inductive reasoning, we explore the fundamental challenge of making predictions about future events based on past data. This perspective helps us understand both the power and limitations of AI prediction systems.
+
+We'll study how different approaches to probability and statistics attempt to address the problem of induction and examine their implications for AI system validation and trust.
+
+## Key Topics
+
+### 1. Philosophical Foundations of Probability
+
+Understanding different interpretations of probability and their implications:
+
+**Classical Interpretations:**
+- Frequentist probability: long-run frequencies and limiting behavior
+- Bayesian probability: degrees of belief and subjective probability
+- Logical probability: objective relationships between propositions
+
+**Modern Developments:**
+- Propensity theories of probability
+- Subjective probability and decision theory
+- Quantum probability and non-classical approaches
+
+**Implications for AI:**
+- How probability interpretation affects AI system design
+- The role of prior knowledge in Bayesian AI systems
+- Handling uncertainty in data-driven decision making
+
+### 2. Bayesian vs. Frequentist Approaches in AI
+
+Comprehensive comparison of major probability frameworks:
+
+**Bayesian Methods:**
+- Bayesian inference and updating
+- Prior specification and elicitation
+- Bayesian neural networks and deep learning
+- Markov Chain Monte Carlo (MCMC) methods
+
+**Frequentist Methods:**
+- Maximum likelihood estimation
+- Hypothesis testing and confidence intervals
+- Bootstrap methods and resampling
+- Classical statistical learning theory
+
+**Hybrid Approaches:**
+- Empirical Bayes methods
+- Regularization and penalized likelihood
+- Ensemble methods and model averaging
+- Combining frequentist and Bayesian perspectives
+
+### 3. Uncertainty Quantification in AI Systems
+
+Practical approaches to measuring and communicating uncertainty:
+
+**Types of Uncertainty:**
+- Aleatoric uncertainty: inherent randomness in data
+- Epistemic uncertainty: uncertainty due to limited knowledge
+- Model uncertainty: uncertainty about model structure
+- Computational uncertainty: numerical and algorithmic limitations
+
+**Quantification Methods:**
+- Confidence intervals and credible intervals
+- Prediction intervals and tolerance intervals
+- Dropout-based uncertainty estimation
+- Ensemble methods for uncertainty quantification
+
+**Calibration and Validation:**
+- Assessing probability calibration
+- Reliability diagrams and calibration curves
+- Proper scoring rules and evaluation metrics
+- Cross-validation and out-of-sample testing
+
+### 4. Probability Distributions and AI Applications
+
+Working with probability distributions in AI contexts:
+
+**Fundamental Distributions:**
+- Gaussian distributions and the central limit theorem
+- Binomial and multinomial distributions
+- Exponential family distributions
+- Heavy-tailed and extreme value distributions
+
+**Advanced Distributions:**
+- Mixture distributions and clustering
+- Hierarchical and multilevel models
+- Dirichlet processes and nonparametric Bayes
+- Copulas and dependency modeling
+
+**Applications in AI:**
+- Probabilistic graphical models
+- Variational inference and approximation
+- Generative models and sampling
+- Reinforcement learning and decision making
+
+### 5. Communicating Uncertainty to Stakeholders
+
+Effective approaches to uncertainty communication:
+
+**Visualization Techniques:**
+- Probability density plots and histograms
+- Confidence bands and error bars
+- Interactive uncertainty visualizations
+- Risk communication and decision support
+
+**Numerical Communication:**
+- Appropriate precision and significant figures
+- Confidence levels and probability statements
+- Risk metrics and expected values
+- Sensitivity analysis and scenario planning
+
+**Stakeholder-Specific Approaches:**
+- Technical audience communication
+- Business stakeholder uncertainty briefings
+- Public communication of AI uncertainty
+- Regulatory and compliance reporting
+
+### 6. Integration with Botspeak Framework
+
+This module emphasizes the application of specific Botspeak pillars:
+
+**Stochastic Reasoning:**
+- Understanding probability and uncertainty in AI systems
+- Calibrating confidence levels appropriately
+- Working effectively with probabilistic outputs and predictions
+
+**Theoretical Foundation:**
+- Connecting probability theory to AI system behavior
+- Understanding the mathematical foundations of uncertainty
+- Maintaining grounding in statistical principles
+
+**Critical Evaluation:**
+- Questioning claims about prediction accuracy and confidence
+- Evaluating the appropriateness of probability models
+- Assessing the reliability of uncertainty quantification
+
+## Assignments and Activities
+
+### Bayesian vs. Frequentist Analysis Project
+Students will analyze the same dataset using both Bayesian and frequentist approaches, comparing their results and discussing the philosophical and practical differences between the two frameworks.
+
+### Uncertainty Quantification Implementation
+Implement multiple uncertainty quantification methods on a complex AI system, evaluating their effectiveness and computational requirements across different types of uncertainty.
+
+### Philosophical Analysis of Probability
+Write a critical essay examining Hume's problem of induction in the context of modern AI prediction systems, analyzing how different probability interpretations address or fail to address this fundamental challenge.
+
+### Calibration Assessment Project
+Conduct a comprehensive calibration assessment of multiple AI systems, evaluating how well their confidence estimates match actual performance and proposing improvements.
+
+### Uncertainty Communication Design
+Design and test multiple approaches to communicating uncertainty to different stakeholder groups, conducting user studies to evaluate comprehension and decision-making effectiveness.
+
+## Key Resources
+
+### Primary Readings
+- Hume, D. "An Enquiry Concerning Human Understanding" (sections on induction)
+- Jaynes, E.T. "Probability Theory: The Logic of Science" (selected chapters)
+
+### Technical Resources
+- PyMC - https://docs.pymc.io/ (Probabilistic programming in Python)
+- Stan - https://mc-stan.org/ (Bayesian statistical modeling)
+- TensorFlow Probability - https://www.tensorflow.org/probability (Probabilistic machine learning)
+- Uncertainty Toolbox - https://uncertainty-toolbox.github.io/ (Uncertainty quantification tools)
+
+### Probability and Statistics Tools
+- SciPy Stats - https://docs.scipy.org/doc/scipy/reference/stats.html (Statistical functions)
+- Statsmodels - https://www.statsmodels.org/ (Statistical modeling)
+- R Statistical Software - https://www.r-project.org/ (Comprehensive statistical analysis)
+- BUGS/JAGS - http://mcmc-jags.sourceforge.net/ (Bayesian analysis)
+
+## Recommended Tools
+
+### Probabilistic Programming Languages
+- PyMC - https://docs.pymc.io/ (Bayesian statistical modeling in Python)
+- Stan - https://mc-stan.org/ (Platform for statistical modeling and computation)
+- Edward/TensorFlow Probability - https://www.tensorflow.org/probability (Deep probabilistic programming)
+- Pyro - https://pyro.ai/ (Probabilistic programming on PyTorch)
+
+### Uncertainty Quantification Libraries
+- Uncertainty Toolbox - https://uncertainty-toolbox.github.io/ (Predictive uncertainty quantification)
+- Fortuna - https://github.com/awslabs/fortuna (Uncertainty quantification library)
+- Laplace - https://github.com/aleximmer/Laplace (Laplace approximation for neural networks)
+- SWAG - https://github.com/wjmaddox/swa_gaussian (Stochastic Weight Averaging)
+
+### Visualization Tools
+- Matplotlib - https://matplotlib.org/ (Python plotting library)
+- Seaborn - https://seaborn.pydata.org/ (Statistical data visualization)
+- Plotly - https://plotly.com/ (Interactive visualization)
+- Bokeh - https://bokeh.org/ (Interactive visualization for web)
+
+### Statistical Computing Platforms
+- R - https://www.r-project.org/ (Statistical computing and graphics)
+- Julia - https://julialang.org/ (High-performance statistical computing)
+- Mathematica - https://www.wolfram.com/mathematica/ (Computational mathematics)
+- MATLAB Statistics Toolbox - https://www.mathworks.com/products/statistics.html
+
+## Resources
+
+### Academic Papers
+- "What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision?" - https://arxiv.org/abs/1703.04977
+- "Simple and Scalable Predictive Uncertainty Estimation using Deep Ensembles" - https://arxiv.org/abs/1612.01474
+- "Concrete Dropout" - https://arxiv.org/abs/1705.07832
+- "Calibrating Uncertainties in Object Localization Task" - https://arxiv.org/abs/1811.11210
+
+### Online Resources
+- Coursera: "Bayesian Statistics" Course - https://www.coursera.org/learn/bayesian-statistics
+- edX: "Probability and Statistics" - https://www.edx.org/course/probability-and-statistics
+- Khan Academy: "Statistics and Probability" - https://www.khanacademy.org/math/statistics-probability
+- Brilliant: "Probability" - https://brilliant.org/courses/probability/
+
+### Books and References
+- "Pattern Recognition and Machine Learning" by Christopher Bishop
+- "The Elements of Statistical Learning" by Hastie, Tibshirani, and Friedman
+- "Bayesian Data Analysis" by Gelman, Carlin, Stern, and Rubin
+- "All of Statistics" by Larry Wasserman
+
+### Industry Resources
+- Google's Uncertainty Quantification - https://ai.googleblog.com/2017/07/revisiting-unreasonable-effectiveness.html
+- Microsoft's Uncertainty in Deep Learning - https://www.microsoft.com/en-us/research/blog/uncertainty-deep-learning/
+- Uber's Probabilistic Programming - https://eng.uber.com/pyro/
+- Netflix's Bayesian Methods - https://netflixtechblog.com/bayesian-methods-for-media-mix-modeling-c9d3644bc3fe
+
+## Connection to Final Project
+
+For students focusing on uncertainty quantification and probabilistic reasoning in their final projects, this module provides essential theoretical frameworks and practical tools. Your project should demonstrate not only technical implementation of uncertainty methods, but also thoughtful consideration of the philosophical and communication dimensions explored in this module.
+
+Students will be expected to apply the Botspeak framework comprehensively, showing how Stochastic Reasoning and Theoretical Foundation work together to create AI systems that appropriately handle and communicate uncertainty while maintaining appropriate skepticism about probabilistic claims.
