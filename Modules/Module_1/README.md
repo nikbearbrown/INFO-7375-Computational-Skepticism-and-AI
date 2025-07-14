@@ -163,10 +163,8 @@ Connecting philosophical skepticism with practical AI validation:
 
 - PromptLayer - https://www.promptlayer.com (Advanced prompt management and evaluation)
 - PromptPerfect - https://promptperfect.jina.ai (AI prompt optimization for multiple models)
-- LangSmith - https://docs.langchain.com/langsmith (Prompt debugging and testing framework)
 - Prompt Engineering Guide - https://www.promptingguide.ai (Comprehensive prompting techniques)
-- Orq.ai - https://orq.ai (LLMOps platform for prompt engineering)
-
+  
 **AI Validation Frameworks**:
 
 - NIST AI Risk Management Framework - https://www.nist.gov/itl/ai-risk-management-framework
