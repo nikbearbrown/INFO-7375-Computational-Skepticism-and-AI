@@ -69,7 +69,7 @@ By the end of this module, students will be able to:
 
 5. **Group Discussion**: Participate in structured discussions about the ethical implications of biased AI systems and the challenges of creating truly fair AI.
 
-## Required Readings
+## References
 
 1. Gebru, T., et al. (2021). "Datasheets for Datasets." Communications of the ACM.
 
