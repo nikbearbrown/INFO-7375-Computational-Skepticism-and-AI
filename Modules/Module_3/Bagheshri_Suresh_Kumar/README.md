@@ -1,4 +1,4 @@
-# Week 2 - I worked on creating a module focused on bias detection 
+Week 2 - I worked on creating a module focused on bias detection.
 # Module 3: Bias Detection in AI Systems
 
 ## Overview
