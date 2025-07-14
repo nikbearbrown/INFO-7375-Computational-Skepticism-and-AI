@@ -129,7 +129,6 @@ Barocas, S., & Selbst, A. D. (2016). "Big data's disparate impact." California L
 Corbett-Davies, S., Pierson, E., Feller, A., Goel, S., & Huq, A. (2017). "Algorithmic decision making and the cost of fairness." Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 797-806.
 
 ### Online Resources
-- Partnership on AI Fairness Research: https://partnershiponai.org/fairness-research/
 - Google AI Responsible AI Practices: https://ai.google/responsibilities/responsible-ai-practices/
 - MIT Technology Review AI Bias Coverage: https://www.technologyreview.com/topic/artificial-intelligence/bias/
 
