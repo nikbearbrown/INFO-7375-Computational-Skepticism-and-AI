@@ -196,10 +196,6 @@ Create and test physical world adversarial examples, analyzing the challenges an
 - **Adversarial Robustness Toolbox (ART)** - https://adversarial-robustness-toolbox.org/
 - **Foolbox** - https://foolbox.readthedocs.io/
 - **CleverHans** - https://github.com/cleverhans-lab/cleverhans
-- **RobustBench** - https://robustbench.github.io/
-
-### Attack and Defense Libraries
-- **Foolbox** - https://foolbox.readthedocs.io/ (Python library for adversarial attacks)
 - **TextAttack** - https://textattack.readthedocs.io/ (Natural language adversarial attacks)
 - **Audio Adversarial Examples** - https://github.com/carlini/audio_adversarial_examples
 
@@ -217,14 +213,12 @@ Create and test physical world adversarial examples, analyzing the challenges an
 
 ### Visualization and Analysis
 - **Matplotlib** - https://matplotlib.org/ (Python plotting library)
-- **Seaborn** - https://seaborn.pydata.org/ (Statistical data visualization)
 - **Plotly** - https://plotly.com/ (Interactive visualization)
-- **Tensorboard** - https://tensorflow.org/tensorboard (ML experiment tracking)
+- **Weights & Biases** - https://wandb.ai/ (Experiment tracking and visualization)
 
 ### Development Environment
 - **Jupyter Notebooks** - https://jupyter.org/ (Interactive development environment)
 - **Google Colab** - https://colab.research.google.com/ (Cloud-based notebooks with GPU support)
-- **Weights & Biases** - https://wandb.ai/ (Experiment tracking and visualization)
 
 ### Robustness Verification
 - **auto_LiRPA** - https://github.com/KaidiXu/auto_LiRPA (Automatic linear relaxation based perturbation analysis)
@@ -254,7 +248,6 @@ Create and test physical world adversarial examples, analyzing the challenges an
 ### Industry Resources
 - **Google's Adversarial Robustness Research** - https://research.google/teams/brain/adversarial/
 - **Microsoft's Adversarial ML Threat Matrix** - https://github.com/mitre/advmlthreatmatrix
-- **IBM's Adversarial Robustness Toolbox** - https://adversarial-robustness-toolbox.org/
 - **Facebook's Adversarial Research** - https://research.facebook.com/publications/adversarial/
 
 ### Philosophical Resources
@@ -270,6 +263,7 @@ Students will be expected to apply the Botspeak framework comprehensively, showi
 
 ## Assessment Criteria
 Projects will be evaluated based on:
+
 - Technical sophistication of implemented attacks and defenses
 - Depth of philosophical analysis regarding AI understanding and deception
 - Application of Nietzschean concepts to adversarial AI dynamics
