@@ -199,7 +199,6 @@ Create and test physical world adversarial examples, analyzing the challenges an
 - **RobustBench** - https://robustbench.github.io/
 
 ### Attack and Defense Libraries
-- **Adversarial Robustness Toolbox** - https://adversarial-robustness-toolbox.org/ (Comprehensive attack and defense library)
 - **Foolbox** - https://foolbox.readthedocs.io/ (Python library for adversarial attacks)
 - **TextAttack** - https://textattack.readthedocs.io/ (Natural language adversarial attacks)
 - **Audio Adversarial Examples** - https://github.com/carlini/audio_adversarial_examples
