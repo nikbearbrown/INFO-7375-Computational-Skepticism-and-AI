@@ -233,12 +233,6 @@ Create and test physical world adversarial examples, analyzing the challenges an
 - "Towards Evaluating the Robustness of Neural Networks" - https://arxiv.org/abs/1608.04644
 - "Adversarial Examples Are Not Bugs, They Are Features" - https://arxiv.org/abs/1905.02175
 
-### Online Resources
-- **Adversarial ML Tutorial** - https://adversarial-ml-tutorial.org/
-- **Distill.pub Adversarial Examples** - https://distill.pub/2017/adversarial-examples/
-- **Google's Adversarial Example Research** - https://research.google/teams/brain/adversarial/
-- **OpenAI Adversarial Research** - https://openai.com/research/adversarial-examples
-
 ### Standards and Guidelines
 - **NIST AI Risk Management Framework** - https://www.nist.gov/itl/ai-risk-management-framework
 - **IEEE Standards for AI System Security** - https://standards.ieee.org/
