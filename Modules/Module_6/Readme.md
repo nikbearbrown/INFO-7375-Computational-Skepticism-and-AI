@@ -235,12 +235,11 @@ Create and test physical world adversarial examples, analyzing the challenges an
 
 ### Standards and Guidelines
 - **NIST AI Risk Management Framework** - https://www.nist.gov/itl/ai-risk-management-framework
-- **IEEE Standards for AI System Security** - https://standards.ieee.org/
 - **ISO/IEC 27001 for AI Security** - https://www.iso.org/standard/27001
 - **OWASP AI Security Guidelines** - https://owasp.org/www-project-ai-security-and-privacy-guide/
 
 ### Industry Resources
-- **Google's Adversarial Robustness Research** - https://research.google/teams/brain/adversarial/
+- **Google's Adversarial Robustness Research** - https://research.google/pubs/intriguing-properties-of-adversarial-examples/
 - **Microsoft's Adversarial ML Threat Matrix** - https://github.com/mitre/advmlthreatmatrix
 - **Facebook's Adversarial Research** - https://research.facebook.com/publications/adversarial/
 
