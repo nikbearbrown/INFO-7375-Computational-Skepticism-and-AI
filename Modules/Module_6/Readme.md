@@ -1,4 +1,4 @@
-Week 3 - Creating Read Me files for Modules 3,6,7,8,9
+
 # Module 6: Adversarial Attacks and Robust AI Systems
 
 ## Overview
