@@ -28,10 +28,10 @@ By the end of this module, students will be able to:
 ## Key Topics
 
 ### 1. Types of Bias in AI
-- Dataset bias (selection bias, representation bias, measurement bias)
-- Algorithm bias (feature selection bias, processing bias)
-- Evaluation bias (benchmark bias, deployment bias)
-- Automation bias and human-computer interaction biases
+- **Data-Related Biases** create the foundation for unfair outcomes through problematic training data(Historical Bias, Representation Bias, Measurement Bias) 
+- **Algorithmic Biases** amplify these problems through technical design choices(Aggregation Bias, Selection Bias, Confirmation Bias, Measurement Bias)
+- **Cognitive and Human Biases** prevent proper oversight and correction(Evaluation Bias, Anchoring Bias, Automation Bias)
+- **Deployment and Feedback Biases** ensure that biases persist and worsen over time(Interaction Bias, Feedback Loops)
 
 ### 2. Bias Detection Methodologies
 - Statistical measures of fairness and bias
