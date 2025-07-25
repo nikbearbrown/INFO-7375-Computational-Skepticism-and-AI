@@ -2,6 +2,10 @@ Week 2 - I worked on creating a module focused on bias detection methodologies. 
 
 Week 3 - I've created a Jupyter notebook with hands-on exercises to help understand different types of bias in AI. Each section includes a real-world scenario, a relatable example, a practice-oriented code snippet, and a clear explanation to reinforce the concept.
 
+Jupyter notebook - https://colab.research.google.com/drive/1d6nrUM-37lut6gMFCGgnlmCen-iL0zoV
+
+Week 4 - Working on creating video tutorials based on the hands-on exercises created.
+
 # Module 3: Bias Detection in AI Systems
 
 ## Overview
