@@ -6,6 +6,12 @@ Hi, I’m Aashish. I’m working on this project as part of my Master’s Projec
 
 ## Week 2 (July 14, 2025):
 - Working on providing hands-on exercise for Module 3.
+- Created Readmes for modules 1-5
+- Updated Jupyter Notebook with concepts of bias detection methodologies
+
+## Week 3 (July 21, 2025):
+- Created a new Jupyter Notebook with hands-on exercises for different bias detection methodologies
+- Created videos for 2 of the bias detection methodologies
 
 # Module 3: Bias Detection in AI Systems
 
