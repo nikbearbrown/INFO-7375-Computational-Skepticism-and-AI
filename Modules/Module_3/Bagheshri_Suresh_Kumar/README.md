@@ -4,7 +4,9 @@ Week 3 - I've created a Jupyter notebook with hands-on exercises to help underst
 
 Jupyter notebook - https://colab.research.google.com/drive/1d6nrUM-37lut6gMFCGgnlmCen-iL0zoV
 
-Week 4 - Working on creating video tutorials based on the hands-on exercises created.
+Week 4 - Created a video for hands on tutorial . Topic - Types of Bias. (Script Writing + Video tutorial)
+
+Week 5 - Working on refining the script of video tutorial for types of bias. Creating new hands-on tutorial for bias detection methodologies.
 
 # Module 3: Bias Detection in AI Systems
 
