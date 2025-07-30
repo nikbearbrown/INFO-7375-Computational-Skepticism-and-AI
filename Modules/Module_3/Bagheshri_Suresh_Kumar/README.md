@@ -1,3 +1,5 @@
+**Week 1**: Topic Finalization. Atttended differnt meetings to identify a topic that aligned with my interests.
+
 **Week 2** - I worked on creating a module focused on bias detection methodologies. I have created read me files for modules 3,6,7,8,9.
 
 **Week 3** - I've created a Jupyter notebook with hands-on exercises to help understand different types of bias in AI. Each section includes a real-world scenario, a relatable example, a practice-oriented code snippet, and a clear explanation to reinforce the concept.
