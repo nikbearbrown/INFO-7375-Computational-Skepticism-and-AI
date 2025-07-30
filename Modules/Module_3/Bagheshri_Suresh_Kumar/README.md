@@ -1,4 +1,4 @@
-**Week 1**: Topic Finalization. Atttended differnt meetings to identify a topic that aligned with my interests.
+**Week 1**: Topic Finalization. Atttended different meetings to identify a topic that aligned with my interests.
 
 **Week 2** - I worked on creating a module focused on bias detection methodologies. I have created read me files for modules 3,6,7,8,9.
 
