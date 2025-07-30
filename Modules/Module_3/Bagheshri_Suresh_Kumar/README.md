@@ -1,12 +1,12 @@
-Week 2 - I worked on creating a module focused on bias detection methodologies. I have created read me files for modules 3,6,7,8,9.
+**Week 2** - I worked on creating a module focused on bias detection methodologies. I have created read me files for modules 3,6,7,8,9.
 
-Week 3 - I've created a Jupyter notebook with hands-on exercises to help understand different types of bias in AI. Each section includes a real-world scenario, a relatable example, a practice-oriented code snippet, and a clear explanation to reinforce the concept.
+**Week 3** - I've created a Jupyter notebook with hands-on exercises to help understand different types of bias in AI. Each section includes a real-world scenario, a relatable example, a practice-oriented code snippet, and a clear explanation to reinforce the concept.
 
 Jupyter notebook - https://colab.research.google.com/drive/1d6nrUM-37lut6gMFCGgnlmCen-iL0zoV
 
-Week 4 - Created a video for hands on tutorial . Topic - Types of Bias. (Script Writing + Video tutorial)
+**Week 4** - Created a video for hands on tutorial . Topic - Types of Bias. (Script Writing + Video tutorial)
 
-Week 5 - Working on refining the script of video tutorial for types of bias. Creating new hands-on tutorial for bias detection methodologies.
+**Week 5** - Working on refining the script of video tutorial for types of bias. Creating new hands-on tutorial for bias detection methodologies.
 
 # Module 3: Bias Detection in AI Systems
 
