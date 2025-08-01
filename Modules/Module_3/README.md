@@ -1,7 +1,5 @@
 # Module 3: Bias Detection and Mitigation in AI
 
-Jupyter Notebook link: https://colab.research.google.com/drive/1JCiHxjbQndtlRq1eZpmpU8c4XWDiLW7k?usp=sharing
-
 ## Overview
 
 This module explores the critical intersection of bias and artificial intelligence, examining how AI systems can inherit, amplify, or create biases that impact their decisions and outputs. Students will develop both the theoretical understanding and practical skills necessary to identify, measure, and mitigate various forms of bias in AI systems.
