@@ -2,7 +2,7 @@ Hi, I’m Aashish. I’m working on this project as part of my Master’s Projec
 
 ### Below are the links to the Jupyter Notebooks that I created:
 Introduction: https://colab.research.google.com/drive/1JCiHxjbQndtlRq1eZpmpU8c4XWDiLW7k?usp=sharing
-Bias Detection Methodologies Jupyter Notebook Link: https://colab.research.google.com/drive/1pTyC2pETlBdlQaQIAMxiXw9fllQtSWKC#scrollTo=MNwO8J6WLTCg
+Bias Detection Methodologies Jupyter Notebook Link: https://colab.research.google.com/drive/1pTyC2pETlBdlQaQIAMxiXw9fllQtSWKC#scrollTo=MNwO8J6WLTCg 
 Ai Bias Case Studies: https://colab.research.google.com/drive/1At5CZ3nOAFWJWa1DkmlDprzXD5Wdicvg#scrollTo=W4n2_4foJiRw
 
 ## Week 1 (Starting July 7, 2025):
@@ -21,7 +21,11 @@ Ai Bias Case Studies: https://colab.research.google.com/drive/1At5CZ3nOAFWJWa1Dk
 ## Week 4 (July 28, 2025):
 - Created 2 new scripts for 2 more videos of the bias detection methodologies
 - Created 4 videos for the four bias detection methodologies
+
+## Week 5(Aug 4, 2025):
 - Created a jupyter notebook for AI Bias case studies
+- Created a script and a video for the same
+- Created detailed youtube captions for all the 5 videos
 
 # Module 3: Bias Detection in AI Systems
 
