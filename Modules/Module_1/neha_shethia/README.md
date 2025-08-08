@@ -1,17 +1,18 @@
 Hi, I’m Neha, and I’m working on this project as part of my OPT contract
 Jupyter Notebook link: https://colab.research.google.com/drive/1UkakHHEerssKb9IZuAFNVRT_Y1Sc8Ipg
 
-Week 1 (July 21) : 
-* Attended multiple meetings and finalized the project. 
-Week 2 (July 28) :
+Week 1 (July 21): 
+- Attended multiple meetings and finalized the project.
+
+Week 2 (July 28):
 * Created a jupyter notebook and started working on Module 1-Section 1. Researched and documented about Botspeak, prompt engineering, skepticism and its philosophical pillars.
-Week 3 (Aug 4)   :
+  
+Week 3 (Aug 4):
 * Created scripts and videos on “Skepticism” with focus on Cartesian doubt
 * Created scripts for Hume’s problem of induction, and Popper’s falsifiability.
 * Added real-world case studies illustrating certain vs. uncertain knowledge, including medical AI label inconsistency and AI hallucinations in healthcare.
 * Documented key philosophical challenges for AI trust, such as non-stationarity, overfitting, bias, and Black Swan events.
-* Integrated empirical knowledge limitations in AI with examples from NLP hallucinations and self-driving car safety gaps.
-* Highlighted ethical implications of overtrusting AI using case studies on racial bias in healthcare algorithms.
+* Integrated empirical knowledge limitations in AI with examples from NLP hallucinations.
 
 # Module 1: Botspeak - The Nine Pillars of AI Fluency
 
