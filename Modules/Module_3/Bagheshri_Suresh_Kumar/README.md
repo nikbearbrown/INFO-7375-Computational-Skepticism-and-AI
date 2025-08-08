@@ -13,7 +13,9 @@ Jupyter notebook - https://colab.research.google.com/drive/1d6nrUM-37lut6gMFCGgn
             
 **Week 6** - Created 3 jupyter notebooks with hands-on tutorials for bias mitigation strategies. 
 https://colab.research.google.com/drive/1vQ4d3xV-9c6JP300ZruP-_xGPI1UJrEJ
+
 https://colab.research.google.com/drive/1_VpUMmjRW3w3ho-WDGXYUTb-lTt0GQ-F
+
 https://colab.research.google.com/drive/1dV1GlywV_cBLUocCrkQ6MQqFTMTXcP0j
 
 # Module 3: Bias Detection in AI Systems
