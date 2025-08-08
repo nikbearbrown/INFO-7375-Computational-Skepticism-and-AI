@@ -26,6 +26,7 @@ Ai Bias Case Studies: https://colab.research.google.com/drive/1At5CZ3nOAFWJWa1Dk
 - Created a jupyter notebook for AI Bias case studies
 - Created a script and a video for the same
 - Created detailed youtube captions for all the 5 videos
+- Created a jupyter notebook for Integration with Botspeak framework
 
 # Module 3: Bias Detection in AI Systems
 
