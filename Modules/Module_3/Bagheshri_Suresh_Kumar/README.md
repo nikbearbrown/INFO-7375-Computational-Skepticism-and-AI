@@ -18,6 +18,9 @@ https://colab.research.google.com/drive/1_VpUMmjRW3w3ho-WDGXYUTb-lTt0GQ-F
 
 https://colab.research.google.com/drive/1dV1GlywV_cBLUocCrkQ6MQqFTMTXcP0j
 
+**Week 7** - Created 3 videos for the hands on tutorials on bias mitigation strategies. Created a jupyter notebook (learning content) on integration with botspeak module.
+ https://colab.research.google.com/drive/1e6j9KkxyPtPjD1GBI7PgOeagSZP3PknJ?usp=sharing
+
 # Module 3: Bias Detection in AI Systems
 
 ## Overview
