@@ -2,9 +2,9 @@ Hi, I’m Aashish. I’m working on this project as part of my Master’s Projec
 
 ### Below are the links to the Jupyter Notebooks that I created:
 Introduction: https://colab.research.google.com/drive/1JCiHxjbQndtlRq1eZpmpU8c4XWDiLW7k?usp=sharing </br>
-Bias Detection Methodologies Jupyter Notebook Link: https://colab.research.google.com/drive/1pTyC2pETlBdlQaQIAMxiXw9fllQtSWKC#scrollTo=MNwO8J6WLTCg</br>
+Bias Detection Methodologies: https://colab.research.google.com/drive/1pTyC2pETlBdlQaQIAMxiXw9fllQtSWKC#scrollTo=MNwO8J6WLTCg</br>
 Ai Bias Case Studies: https://colab.research.google.com/drive/1At5CZ3nOAFWJWa1DkmlDprzXD5Wdicvg#scrollTo=W4n2_4foJiRw</br>
-Integration with Botspeak framework: https://colab.research.google.com/drive/1NVFAEADgIMY94aTAN2--y3JM9AFD4z48#scrollTo=7UBAHhFlLDpT</br>
+Integration with Botspeak: https://colab.research.google.com/drive/1NVFAEADgIMY94aTAN2--y3JM9AFD4z48#scrollTo=7UBAHhFlLDpT</br>
 
 ## Week 1 (Starting July 7, 2025):
 - Created a Jupyter notebook explaining what bias is, including its mathematical definition and real-world examples.
