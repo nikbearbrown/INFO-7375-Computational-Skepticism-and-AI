@@ -23,11 +23,16 @@ Integration with Botspeak framework: https://colab.research.google.com/drive/1NV
 - Created 2 new scripts for 2 more videos of the bias detection methodologies
 - Created 4 videos for the four bias detection methodologies
 
-## Week 5(Aug 4, 2025):
+## Week 5 (Aug 4, 2025):
 - Created a jupyter notebook for AI Bias case studies
 - Created a script and a video for the same
 - Created detailed youtube captions for all the 5 videos
 - Created a jupyter notebook for Integration with Botspeak framework
+
+## Week 6 (Aug 11, 2025):
+- Created 2 Videos for Integration with Botspeak framework
+- Created Youtube captions for the same and updated all other youtube captions
+- Researched about how we can build AI agents which will help us detect Bias and mitigate it
 
 # Module 3: Bias Detection and Mitigation in AI
 
