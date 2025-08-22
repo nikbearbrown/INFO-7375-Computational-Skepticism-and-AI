@@ -14,6 +14,16 @@ Week 3 (Aug 4):
 * Documented key philosophical challenges for AI trust, such as non-stationarity, overfitting, bias, and Black Swan events.
 * Integrated empirical knowledge limitations in AI with examples from NLP hallucinations.
 
+Week 4 (Aug 11):
+* Created scripts on Section 2 covering "Framework Overview: The Botspeak System"
+* Research about Structured Methodology for AI Interaction and what are the methods (e.g. Clarify the Question Before Asking, Iterative Query and Verification, Cross-Model & Cross-Source Validation).
+* Research about Balancing AI Capabilities with Human Oversight method.
+
+Week 5 (Aug 18):
+* Created 3 videos on methods for Structured Methodology for AI Interaction.
+* Drive Link : https://drive.google.com/drive/folders/1hRR4IiVU8rITdy0rM3BmNFd6N_UBW2ll
+* Continued Research on Section 2 for other parts - Continuous Validation and Critical Assessment Protocols.
+
 # Module 1: Botspeak - The Nine Pillars of AI Fluency
 
 ## Overview
