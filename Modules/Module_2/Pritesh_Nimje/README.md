@@ -2,7 +2,9 @@ Hi, I’m Pritesh, and I’m working on this project as part of my OPT contract 
 
 
 #### Below are the links to the Jupyter Notebooks that I created:
-Introduction: https://colab.research.google.com/drive/1TXzDs4CJ01KXqN5qtryVY-ULWngK6-cW
+- Data Validation Techniques Intro: https://colab.research.google.com/drive/1TXzDs4CJ01KXqN5qtryVY-ULWngK6-cW
+- Exploratory Data Analysis Intro: https://colab.research.google.com/drive/1JuYrgWikyi4mR7RydiTOgmN_pobKQCIE
+- Exploratory Data Analysis Hands-On Exercises: https://colab.research.google.com/drive/1cKS8oJLgixCXoze4gXVY3SpN8lMQalFC
 
 ---
 

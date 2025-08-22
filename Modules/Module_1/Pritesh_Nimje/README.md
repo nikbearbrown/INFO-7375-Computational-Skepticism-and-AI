@@ -19,6 +19,19 @@ Nine Pillars Intro: https://colab.research.google.com/drive/1zTgAqNJX2p-Y7uVoUu-
 - Documented 10 key dimensions of data quality with definitions, examples, and detection techniques.
 - Created notebook is documented under Module 2.
 
+### Week 3 (August 15, 2025):
+- Created a hands-on notebook on foundational data validation techniques with synthetic datasets and real-world inspired scenarios.
+- Developed detailed theory for EDA in AI validation, covering Statistical Analysis, Visual Analysis, and their core methodologies.
+- Added real-world case studies, philosophical context, best practices, common pitfalls, relevant formulas, and AI-specific validation examples for each sub-section for practical relevance
+- Working on creating the video script for Module 2 “Foundations of Data Validation Techniques” and its accompanying hands-on exercises.
+- Created notebook is documented under Module 2.
+
+### Week 4 (August 22, 2025):
+- Created a hands-on exercises notebook for Exploratory Data Anaylsis Section with synthetic and real-world inspired datasets, covering Statistical and Visual Analysis.
+- Completed theory for EDA -> Assumption Testing and its core methodologies.
+- Added case studies, philosophical context, best practices, pitfalls, formulas, and AI-specific validation examples.
+- Created two Module 2 videos: Introduction to Data Validation Techniques and Foundations of Data Validation, with detailed Youtube upload outline script.
+- Created notebook is documented under Module 2.
 ---
 
 # Module 1: Botspeak - The Nine Pillars of AI Fluency
