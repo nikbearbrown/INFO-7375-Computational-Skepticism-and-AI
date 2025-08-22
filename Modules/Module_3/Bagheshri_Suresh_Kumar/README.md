@@ -21,6 +21,8 @@ https://colab.research.google.com/drive/1dV1GlywV_cBLUocCrkQ6MQqFTMTXcP0j
 **Week 7** - Created 3 videos for the hands on tutorials on bias mitigation strategies. Created a jupyter notebook (learning content) on integration with botspeak module.
  https://colab.research.google.com/drive/1e6j9KkxyPtPjD1GBI7PgOeagSZP3PknJ?usp=sharing
 
+ **Wek 8** - Drafted the script anf Created videos for the jupyter notebook on integration with botspeak module. Drafted youtube descriptions. ( Topics: thical Reasoning and Technical Understanding)
+
 # Module 3: Bias Detection in AI Systems
 
 ## Overview
