@@ -5,6 +5,7 @@ Introduction: https://colab.research.google.com/drive/1JCiHxjbQndtlRq1eZpmpU8c4X
 Bias Detection Methodologies: https://colab.research.google.com/drive/1pTyC2pETlBdlQaQIAMxiXw9fllQtSWKC#scrollTo=MNwO8J6WLTCg</br>
 Ai Bias Case Studies: https://colab.research.google.com/drive/1At5CZ3nOAFWJWa1DkmlDprzXD5Wdicvg#scrollTo=W4n2_4foJiRw</br>
 Integration with Botspeak: https://colab.research.google.com/drive/1NVFAEADgIMY94aTAN2--y3JM9AFD4z48#scrollTo=7UBAHhFlLDpT</br>
+Drive Link Containing Videos: https://drive.google.com/drive/folders/1_lH5WkPfqmlgsuANxDvX8rsXVRd7wIs7
 
 ## Week 1 (Starting July 7, 2025):
 - Created a Jupyter notebook explaining what bias is, including its mathematical definition and real-world examples.
@@ -33,6 +34,10 @@ Integration with Botspeak: https://colab.research.google.com/drive/1NVFAEADgIMY9
 - Created 2 Videos for Integration with Botspeak framework
 - Created Youtube captions for the same and updated all other youtube captions
 - Researched about how we can build AI agents which will help us detect Bias and mitigate it
+
+## Week 7 (Aug 18, 2025):
+- Created a video speaking about how to make a video
+- Updated all the previous videos with Intro and Outros
 
 # Module 3: Bias Detection and Mitigation in AI
 
