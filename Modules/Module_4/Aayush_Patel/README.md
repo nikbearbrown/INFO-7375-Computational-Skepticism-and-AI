@@ -7,6 +7,8 @@ Google Colab- https://colab.research.google.com/drive/1NHB5qAwfU0fITIdkN17MdC13L
 - **Week 3** (22/8/25): This week, I worked on a comparative review of Explainable AI (XAI) techniques. I explored model-agnostic methods (SHAP, LIME, permutation importance, counterfactuals) and model-specific methods (gradient-based, attention, rule-based, and prototype-based approaches). I compared their strengths, limitations, and evaluation metrics (fidelity, stability, robustness, human factors).
 Google Colab- https://colab.research.google.com/drive/1UhlMI1AHhgJIJUk_antS4Kho4B1P4MRG
 
+- Completed 1 Video on Black Box Problem 
+  Google Drive: https://drive.google.com/drive/folders/15RVAtVj4JHLX74FTOggm89Kic7z1VS38
 
 # Module 4: Explainability and Interpretability of AI Models #
 
