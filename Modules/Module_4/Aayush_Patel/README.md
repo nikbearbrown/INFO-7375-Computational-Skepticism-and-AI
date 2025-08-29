@@ -6,10 +6,11 @@ Google Colab- https://colab.research.google.com/drive/1NHB5qAwfU0fITIdkN17MdC13L
 
 - **Week 3** (22/8/25): This week, I worked on a comparative review of Explainable AI (XAI) techniques. I explored model-agnostic methods (SHAP, LIME, permutation importance, counterfactuals) and model-specific methods (gradient-based, attention, rule-based, and prototype-based approaches). I compared their strengths, limitations, and evaluation metrics (fidelity, stability, robustness, human factors).
 Google Colab- https://colab.research.google.com/drive/1UhlMI1AHhgJIJUk_antS4Kho4B1P4MRG
-
+- **Week 4 (8/29/2025)**
 - Completed 1 Video on Black Box Problem 
   Google Drive: https://drive.google.com/drive/folders/15RVAtVj4JHLX74FTOggm89Kic7z1VS38
-
+- This week I explored evaluation metrics for XAI explanations, including fidelity, consistency, robustness, completeness, and sufficiency with real-world case studies. I reviewed advanced measures like Infidelity, AOPC, MAX-Sensitivity, and frameworks such as Quantus, highlighting their strengths and pitfalls. I also analyzed philosophical perspectives (Wittgenstein’s language games) and recent findings on metric reliability, emphasizing the need for standardized evaluation benchmarks.
+Google Colab- https://colab.research.google.com/drive/1whJ8DkXgeSZIhfbnk-kxHLvjGmNaJ1O2
 # Module 4: Explainability and Interpretability of AI Models
 
 ## Overview
