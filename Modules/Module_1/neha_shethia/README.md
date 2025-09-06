@@ -24,6 +24,23 @@ Week 5 (Aug 18):
 * Drive Link : https://drive.google.com/drive/folders/1hRR4IiVU8rITdy0rM3BmNFd6N_UBW2ll
 * Continued Research on Section 2 for other parts - Continuous Validation and Critical Assessment Protocols.
 
+Week 6 (Aug 29):
+* Started Working on Section 5.
+* Created detailed scripts for titles in the “Integration with Computational Skepticism” section.
+* Outlined key concepts of systematic doubt, emphasizing the need to rigorously question AI outputs rather than accepting claims at face value.Included examples of high-stakes AI failures, such as IBM Watson for Oncology, to illustrate real-world consequences of unvalidated AI systems.
+* Scripted content on computational validation methods, including adversarial testing and robustness evaluation, showing how AI vulnerabilities can be systematically detected.
+* Developed segments on balancing skepticism with productive human-AI collaboration, using studies like Stanford CheXaid to demonstrate AI as a “second reader” under human oversight.
+* Added coverage of continuous assessment frameworks, such as TensorFlow Data Validation, highlighting techniques for detecting data drift, schema anomalies, and performance degradation over time.
+* Ensured all scripts aligned with the Botspeak principles of Cartesian doubt, epistemic rigor, and embedding skepticism into practical AI workflows.
+
+Week 7 (Sept 05):
+* For Section 2 - Created video section on Balancing AI Capabilities with Human Oversight, emphasizing role clarity, continuous feedback, and fail-safe governance in high-stakes systems.Added case studies from autonomous driving, healthcare diagnostics, and financial trading to highlight human–AI accountability mechanisms.
+* Documented Continuous Validation and Critical Assessment Protocols, covering automated fact-checking, ground-truth revalidation, human escalation, and feedback loops. Integrated findings from multiple peer-reviewed sources demonstrating performance improvements when humans remain in the loop.
+* Produced videos on Integration of Philosophical Rigor with Practical AI, showing how Descartes, Hume, and Popper’s principles map directly into workflows. Highlighted practical applications of falsifiability, explainability, and ethical oversight across healthcare, finance, and policing systems.
+* Ensured that Botspeak’s philosophical pillars are connected to applied governance practices, bridging theory with real-world human–AI collaboration.
+* For Section 5 - Created videos on “Integration with Computational Skepticism”, covering systematic doubt, computational validation methods, human-AI collaboration, and continuous assessment frameworks.
+
+
 # Module 1: Botspeak - The Nine Pillars of AI Fluency
 
 ## Overview
