@@ -39,7 +39,7 @@ Nine Pillars Intro: https://colab.research.google.com/drive/1zTgAqNJX2p-Y7uVoUu-
 - Updated all videos with humanitarians outro as per new video submission guidelines.
 
 ### Week 6 (September 5, 2025):
-- Created videos on Assumption Testing Hands-On Introduction, covering theoretical aspections of different methodologies, philosophical context, best practices, pitfalls, formulas, and AI-specific validation examples.
+- Created videos on Assumption Testing Introduction, covering theoretical aspections of different methodologies, philosophical context, best practices, pitfalls, formulas, and AI-specific validation examples.
 - Created videos on Statistical Analysis, Visual Analysis, and Assumption Testing Hands-On Exercises, covering walkthrough of the notebook and different methodologies, code & functions, and output interpretation, with detailed Youtube upload outline script.
 ---
 
