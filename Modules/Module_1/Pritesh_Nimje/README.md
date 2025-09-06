@@ -32,6 +32,15 @@ Nine Pillars Intro: https://colab.research.google.com/drive/1zTgAqNJX2p-Y7uVoUu-
 - Added case studies, philosophical context, best practices, pitfalls, formulas, and AI-specific validation examples.
 - Created two Module 2 videos: Introduction to Data Validation Techniques and Foundations of Data Validation, with detailed Youtube upload outline script.
 - Created notebook is documented under Module 2.
+
+### Week 5 (August 28, 2025):
+- Completed hands-on exerciese for EDA -> Assumption Testing and its core methodologies.
+- Created 3 videos on Statistical Analysis, Visual Analysis Introduction, with detailed Youtube upload outline script.
+- Updated all videos with humanitarians outro as per new video submission guidelines.
+
+### Week 6 (September 5, 2025):
+- Created videos on Assumption Testing Hands-On Exercises, covering theoretical aspections of different methodologies, philosophical context, best practices, pitfalls, formulas, and AI-specific validation examples.
+- Created videos on Statistical Analysis, Visual Analysis, and Assumption Testing Hands-On Exercises, covering walkthrough of the notebook and different methodologies, code & functions, and output interpretation, with detailed Youtube upload outline script.
 ---
 
 # Module 1: Botspeak - The Nine Pillars of AI Fluency
