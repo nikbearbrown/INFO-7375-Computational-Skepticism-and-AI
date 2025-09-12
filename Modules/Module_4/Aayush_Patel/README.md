@@ -21,6 +21,9 @@ This week I worked on a comparative review of Explainable AI (XAI) techniques. I
 This week I explored evaluation metrics for XAI explanations, including fidelity, consistency, robustness, completeness, and sufficiency with real-world case studies. I reviewed advanced measures such as Infidelity, AOPC, and MAX-Sensitivity, along with frameworks like Quantus, highlighting their strengths and pitfalls. I also analyzed philosophical perspectives (e.g., Wittgenstein’s language games) and recent findings on metric reliability, emphasizing the urgent need for standardized evaluation benchmarks.
 Google Drive: https://drive.google.com/drive/folders/15RVAtVj4JHLX74FTOggm89Kic7z1VS38
 
+- **Week 6 (9/12/2025)**
+- This week you built and tested a hands-on XAI lab applying SHAP and LIME to a synthetic credit dataset, auditing spurious proxies and translating model outputs into borrower-usable reasons. also done jupyter notebook write-up by linking Wittgenstein’s “language games” to real-world case studies in healthcare, finance, and law.
+Google Colab link- https://colab.research.google.com/drive/14WtMQd5727ckSpOISMRfIbnYKxPd90mb#scrollTo=JJs4uYTn-fiI
 
 # Module 4: Explainability and Interpretability of AI Models
 
