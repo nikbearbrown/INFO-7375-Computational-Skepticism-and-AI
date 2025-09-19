@@ -16,14 +16,19 @@ Google Colab- https://colab.research.google.com/drive/1whJ8DkXgeSZIhfbnk-kxHLvjG
 - Additionally, recorded two new videos with transcripts:
 **Video 1 — Comparative Review of XAI Techniques**
 This week I worked on a comparative review of Explainable AI (XAI) techniques. I explored model-agnostic methods (SHAP, LIME, permutation importance, counterfactuals) and model-specific methods (gradient-based, attention, rule-based, and prototype-based approaches). I compared their strengths, limitations, and evaluation metrics (fidelity, stability, robustness, and human factors), highlighting trade-offs between interpretability and performance.
-
 **Video 2 — Evaluation Metrics for XAI Explanations**
 This week I explored evaluation metrics for XAI explanations, including fidelity, consistency, robustness, completeness, and sufficiency with real-world case studies. I reviewed advanced measures such as Infidelity, AOPC, and MAX-Sensitivity, along with frameworks like Quantus, highlighting their strengths and pitfalls. I also analyzed philosophical perspectives (e.g., Wittgenstein’s language games) and recent findings on metric reliability, emphasizing the urgent need for standardized evaluation benchmarks.
 Google Drive: https://drive.google.com/drive/folders/15RVAtVj4JHLX74FTOggm89Kic7z1VS38
 
 - **Week 6 (9/12/2025)**
-- This week you built and tested a hands-on XAI lab applying SHAP and LIME to a synthetic credit dataset, auditing spurious proxies and translating model outputs into borrower-usable reasons. also done jupyter notebook write-up by linking Wittgenstein’s “language games” to real-world case studies in healthcare, finance, and law.
+- This week i built and tested a hands-on XAI lab applying SHAP and LIME to a synthetic credit dataset, auditing spurious proxies and translating model outputs into borrower-usable reasons. also done jupyter notebook write-up by linking Wittgenstein’s “language games” to real-world case studies in healthcare, finance, and law.
 Google Colab link- https://colab.research.google.com/drive/14WtMQd5727ckSpOISMRfIbnYKxPd90mb#scrollTo=JJs4uYTn-fiI
+
+- **Week 7 (9/17/2025)**
+- Wrote a Jupyter notebook (“Module 4 – Part 5: Stakeholder-Specific XAI”) and built a lab on the German Credit dataset (RandomForest, AUC ≈ 0.80) with SHAP/LIME explanations.
+Saved teaching artifacts (global_beeswarm.png, local_waterfall_i3.png, lime_i3.html) and version-safe code; next up: fairness metrics, a model card, and explanation logging.
+- Google Drive- https://colab.research.google.com/drive/13LG1oUeHCxNWGGuZGhDDC1NvGSQsLWRy#scrollTo=RR5z7Bhrno9F
+- Google Drive- https://colab.research.google.com/drive/1vOlcCTGLDzFtCfadtMwkP1wX3A9jTZjR
 
 # Module 4: Explainability and Interpretability of AI Models
 
