@@ -40,7 +40,15 @@ Nine Pillars Intro: https://colab.research.google.com/drive/1zTgAqNJX2p-Y7uVoUu-
 
 ### Week 6 (September 5, 2025):
 - Created videos on Assumption Testing Introduction, covering theoretical aspections of different methodologies, philosophical context, best practices, pitfalls, formulas, and AI-specific validation examples.
-- Created videos on Statistical Analysis, Visual Analysis, and Assumption Testing Hands-On Exercises, covering walkthrough of the notebook and different methodologies, code & functions, and output interpretation, with detailed Youtube upload outline script.
+- Created videos on Statistical Analysis, Visual Analysis, covering walkthrough of the notebook and different methodologies, code & functions, and output interpretation, with detailed Youtube upload outline script.
+
+### Week 7 (September 12, 2025):
+- Created videos on Assumption Testing Hands-On Exercises, covering walkthrough of the notebook and different methodologies, code & functions, and output interpretation, with detailed Youtube upload outline script.
+
+### Week 8 (September 19, 2025):
+- Developed detailed theory for Module 2 -> Data Quality Assessment section in covering their dimensions their core methodologies.
+- Added real-world case studies, philosophical context, best practices, common pitfalls, relevant formulas, and AI-specific validation examples for each sub-section for practical relevance.
+- Working on creating the introductory video scripts for DQA section.
 ---
 
 # Module 1: Botspeak - The Nine Pillars of AI Fluency
