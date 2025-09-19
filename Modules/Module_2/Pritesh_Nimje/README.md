@@ -6,6 +6,7 @@ Hi, I’m Pritesh, and I’m working on this project as part of my OPT contract 
 - Data Validation Techniques Hands-On Exercises: https://colab.research.google.com/drive/1pdy_-6WEgGwfAyLyq8wzVSd09gysL9Fg
 - Exploratory Data Analysis Intro: https://colab.research.google.com/drive/1JuYrgWikyi4mR7RydiTOgmN_pobKQCIE
 - Exploratory Data Analysis Hands-On Exercises: https://colab.research.google.com/drive/1cKS8oJLgixCXoze4gXVY3SpN8lMQalFC
+- Data Quality Assessment Intro: https://colab.research.google.com/drive/1re2sv-9xdnAtgMyKZ6kU70vofTkOhL6C
 
 ---
 
