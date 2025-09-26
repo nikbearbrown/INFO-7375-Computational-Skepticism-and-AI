@@ -49,6 +49,11 @@ Nine Pillars Intro: https://colab.research.google.com/drive/1zTgAqNJX2p-Y7uVoUu-
 - Developed detailed theory for Module 2 -> Data Quality Assessment section in covering their dimensions their core methodologies.
 - Added real-world case studies, philosophical context, best practices, common pitfalls, relevant formulas, and AI-specific validation examples for each sub-section for practical relevance.
 - Working on creating the introductory video scripts for DQA section.
+
+### Week 9 (September 26, 2025):
+- Developed a hands-on exercises notebook for the Data Quality Assessment section of Botspeak Module 2.
+- Designed synthetic and real-world–inspired datasets to illustrate challenges like calibration bias, missing data, temporal drift, and inter-rater variability.
+- Built 9+ interactive exercises with code, visualizations, and reflection prompts covering accuracy & completeness, consistency & reliability, and relevance & timeliness.
 ---
 
 # Module 1: Botspeak - The Nine Pillars of AI Fluency
