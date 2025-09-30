@@ -1,5 +1,4 @@
-Hi, I’m Neha, and I’m working on this project as part of my OPT contract Jupyter Notebook link:
-https://colab.research.google.com/drive/10jkzBpLMKBGYgZKxPN3luXYMZyk2f2X5#scrollTo=hNn8evdYmZja
+
 
 # Module 7: Reinforcement Learning for AI Reliability
 
