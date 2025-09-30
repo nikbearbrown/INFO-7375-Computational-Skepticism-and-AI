@@ -30,6 +30,11 @@ Saved teaching artifacts (global_beeswarm.png, local_waterfall_i3.png, lime_i3.h
 - Google Drive- https://colab.research.google.com/drive/13LG1oUeHCxNWGGuZGhDDC1NvGSQsLWRy#scrollTo=RR5z7Bhrno9F
 - Google Drive- https://colab.research.google.com/drive/1vOlcCTGLDzFtCfadtMwkP1wX3A9jTZjR
 
+- Week 8 (9/26/2025)**
+- completed 3 videos Google Drive: https://drive.google.com/drive/folders/15RVAtVj4JHLX74FTOggm89Kic7z1VS38
+- started working on the module 8 part 1 where i completed one jupyter notebook on evolution of llm to agentic AI
+- Google Colab: https://colab.research.google.com/drive/1hFNwVNxDBuKnExnO0te0XeKZuCJZqQN2
+
 # Module 4: Explainability and Interpretability of AI Models
 
 ## Overview
