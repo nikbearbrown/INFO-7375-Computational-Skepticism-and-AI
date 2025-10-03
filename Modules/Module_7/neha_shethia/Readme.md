@@ -1,6 +1,20 @@
 Hi, I’m Neha, and I’m working on this project as part of my OPT contract Jupyter Notebook link:
 https://colab.research.google.com/drive/10jkzBpLMKBGYgZKxPN3luXYMZyk2f2X5#scrollTo=hNn8evdYmZja
 
+Week 8: Sept19
+* Researched about remaining modules and started with Module 7
+* Create Jupyter Notebook
+* Started with section1 - The Evolution of AI: From Language Models to Agents
+* Defintion and real world examples of language models and its limitation
+* How The Agentic AI got generated
+* Some practical exercises of above topics
+
+Week 9: Sept 26
+* Researched about The Emergence of Agentic AI with its defintion and characteristics
+* Classroom exercises along with link to short readings and quick comparisions
+* 6 HomeWork exercises
+* Started with The Five Types of AI Agents with practical and group exercises
+
 # Module 7: Reinforcement Learning for AI Reliability
 
 ## Overview
