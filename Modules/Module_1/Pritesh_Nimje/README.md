@@ -54,6 +54,12 @@ Nine Pillars Intro: https://colab.research.google.com/drive/1zTgAqNJX2p-Y7uVoUu-
 - Developed a hands-on exercises notebook for the Data Quality Assessment section of Botspeak Module 2.
 - Designed synthetic and real-world–inspired datasets to illustrate challenges like calibration bias, missing data, temporal drift, and inter-rater variability.
 - Built 9+ interactive exercises with code, visualizations, and reflection prompts covering accuracy & completeness, consistency & reliability, and relevance & timeliness.
+
+### Week 10 (October 3, 2025):
+- Created 12 videos covering introduction and hands-on exercises of Module 2 -> Data Quality Assessment
+- Developed detailed theory for Module 2 -> Bias Detection in Datasets section in covering various forms of biases.
+- Added real-world case studies, philosophical context, best practices, common pitfalls, relevant formulas, and AI-specific validation examples for each sub-section for practical relevance.
+- Working on creating the introductory video scripts for Bias Detection section.
 ---
 
 # Module 1: Botspeak - The Nine Pillars of AI Fluency
