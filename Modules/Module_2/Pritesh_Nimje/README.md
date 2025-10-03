@@ -8,6 +8,8 @@ Hi, I’m Pritesh, and I’m working on this project as part of my OPT contract 
 - Exploratory Data Analysis Hands-On Exercises: https://colab.research.google.com/drive/1cKS8oJLgixCXoze4gXVY3SpN8lMQalFC
 - Data Quality Assessment Intro: https://colab.research.google.com/drive/1re2sv-9xdnAtgMyKZ6kU70vofTkOhL6C
 - Data Quality Assessment Hands-On Exercises: https://colab.research.google.com/drive/1yec_0KItyoSc5cCjx6rwAjzEtptqUig2
+- Bias Detection in Datasets Intro: https://colab.research.google.com/drive/1n9qogGn52eERm03RnL4lqLke-Wdawjq1
+- Bias Detection in Datasets Hands-On Exercises: https://colab.research.google.com/drive/1bN-Lp-4vzBEebTZZ4fNpXQERym33MfjJ
 
 ---
 
