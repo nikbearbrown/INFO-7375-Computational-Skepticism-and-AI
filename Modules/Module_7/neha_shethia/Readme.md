@@ -15,6 +15,23 @@ Week 9: Sept 26
 * 6 HomeWork exercises
 * Started with The Five Types of AI Agents with practical and group exercises
 
+Week 10: Oct 3
+* Agency and Free Will in AI Systems -
+* Philosophical Foundations:
+    Classical debates about free will vs. determinism
+    Compatibilist perspectives on agency and determinism
+    The relationship between intelligence and agency
+    Moral responsibility in deterministic systems
+*  AI Implementation:
+    How reinforcement learning algorithms make "decisions"
+    The role of exploration vs. exploitation in apparent choice
+    Stochastic policies and the illusion of free will
+    Emergent behavior in complex RL systems
+* Critical Analysis:
+    Do AI agents choose or merely execute complex calculations?
+    The distinction between behavioral unpredictability and genuine choice
+    How learning changes the nature of AI decision-making
+
 # Module 7: Reinforcement Learning for AI Reliability
 
 ## Overview
