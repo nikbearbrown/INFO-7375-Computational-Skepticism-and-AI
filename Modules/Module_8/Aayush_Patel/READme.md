@@ -7,4 +7,12 @@
 - **Week 9 (10/03/2025)**
 - Worked on three agentic-AI topics—(1) design patterns (planning, reflection, tool use, multi-agent), (2) the five agent types + multi-agent systems, and (3) the  Perceive→Reason→Act→Learn loop—and consolidated them into a single Jupyter notebook with concise notes and runnable demos.
 - Module8_Part2 Google Colab: https://colab.research.google.com/drive/13EmjzS49_8B1HT9AwJX3Y4VoTz9PekeG#scrollTo=vG4sqWMFuMdG
+- Module8_Part3 Google Colab: https://colab.research.google.com/drive/1RDhls4rLWoXYfKYVVL_Kw-okeEd6kMOo#scrollTo=asVKl5b0rhig
 - Module8_Part4 Google Colab: https://colab.research.google.com/drive/1bR6EMDKV30wM2-xWEf-ZXvUvav3aZZiG#scrollTo=1btwx_CQ4_S_
+
+- **Week 10 (10/10/2025)**
+- worked on 2 jupyter notebooks
+- Module8_Part3 Google Colab: https://colab.research.google.com/drive/1RDhls4rLWoXYfKYVVL_Kw-okeEd6kMOo#scrollTo=asVKl5b0rhig
+- Module8_Part5 Google Colab: https://colab.research.google.com/drive/1EGCfBUXwutrr04qU4x0NB01E-MjuN1CJ
+- Also created 4 videos of module 8 and their transcripts
+- Google Drive:  https://drive.google.com/drive/folders/104ECklyPNuM7ADZ6aS6fJm8-33jYQ7Vk
