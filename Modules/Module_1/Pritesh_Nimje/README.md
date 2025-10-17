@@ -70,7 +70,6 @@ Nine Pillars Intro: https://colab.research.google.com/drive/1zTgAqNJX2p-Y7uVoUu-
 ### Week 11 (October 17, 2025):
 - Created 10 videos covering introduction and hands-on exercises of Module 2 -> Validation Frameworks and Methodologies
 - Developed a hands-on exercises notebook for the Validation Frameworks and Methodologies section of Botspeak Module 2.
-- Designed synthetic and real-world–inspired datasets to illustrate challenges like calibration bias, missing data, temporal drift, and inter-rater variability.
 - Built 6 interactive exercises with code, visualizations, and reflection prompts covering different methodologies.
 ---
 
