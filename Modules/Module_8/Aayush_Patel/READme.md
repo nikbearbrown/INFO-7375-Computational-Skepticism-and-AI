@@ -21,8 +21,10 @@
 - Created a Jupyter Notebook covering Topic 6: Real-World Applications of Agentic AI and Topic 7: What Sets Agentic AI Apart.
 - Explored practical uses across Customer Service, Content Creation, Software Development, Healthcare, Video Analytics, and Finance, showing how agentic AI drives automation     and efficiency.
 - Also summarized the core differentiators — Autonomy, Reasoning Capacity, Multi-Step Problem Solving, Learning & Improvement, and Tool Integration — emphasizing how agentic AI advances beyond traditional AI systems.
-
+- Google Drive: https://colab.research.google.com/drive/1_ayUloY4x5ZyaHoFyWe0Jvt-vb9TCaoI?usp=drive_open
+- Google Drive: https://colab.research.google.com/drive/1jGXt6ag6u2_AbH_ozPjqUcawA4oEhlyY?usp=drive_link
 
 - **Week 10 (24/10/2025)**
 - Created a Jupyter Notebook on Topic 8: AI Agent Protocols – The Communication Foundation.
 - Explained how AI Agent Protocols standardize communication between agents, similar to how HTTP connects web systems. Focused on MCP (Model Context Protocol) by Anthropic—its   purpose, strengths (universal compatibility, real-time data access, secure design, developer-friendly setup), and limitations.
+- Google Drive: https://colab.research.google.com/drive/1SBIMiMBvrU-Aa8aRkCWN0fulEeBGPqs5?usp=drive_link
