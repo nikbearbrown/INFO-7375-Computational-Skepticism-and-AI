@@ -16,3 +16,13 @@
 - Module8_Part5 Google Colab: https://colab.research.google.com/drive/1EGCfBUXwutrr04qU4x0NB01E-MjuN1CJ
 - Also created 4 videos of module 8 and their transcripts
 - Google Drive:  https://drive.google.com/drive/folders/104ECklyPNuM7ADZ6aS6fJm8-33jYQ7Vk
+
+- **Week 11 (10/17/2025)**
+- Created a Jupyter Notebook covering Topic 6: Real-World Applications of Agentic AI and Topic 7: What Sets Agentic AI Apart.
+- Explored practical uses across Customer Service, Content Creation, Software Development, Healthcare, Video Analytics, and Finance, showing how agentic AI drives automation     and efficiency.
+- Also summarized the core differentiators — Autonomy, Reasoning Capacity, Multi-Step Problem Solving, Learning & Improvement, and Tool Integration — emphasizing how agentic AI advances beyond traditional AI systems.
+
+
+- **Week 10 (24/10/2025)**
+- Created a Jupyter Notebook on Topic 8: AI Agent Protocols – The Communication Foundation.
+- Explained how AI Agent Protocols standardize communication between agents, similar to how HTTP connects web systems. Focused on MCP (Model Context Protocol) by Anthropic—its   purpose, strengths (universal compatibility, real-time data access, secure design, developer-friendly setup), and limitations.
