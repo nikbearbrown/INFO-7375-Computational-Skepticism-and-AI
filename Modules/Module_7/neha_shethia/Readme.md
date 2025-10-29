@@ -32,6 +32,25 @@ Week 10: Oct 3
     The distinction between behavioral unpredictability and genuine choice
     How learning changes the nature of AI decision-making
 
+Week 11: Oct 10
+* Completed Section 2 
+* Created Videos 3-4 Videos covering all the sub topics in Section 1
+* Examples, Discussion questions and assignment questions on Section 2
+* Created Exercises on Section 1.
+
+Week 12: Oct 17
+* Completed Section 3
+* Completed Section 4
+* Created Videos on both the sections
+
+Week 13: Oct 24
+* Completed Section 5
+* Created Videos
+
+Week 14: Oct 31
+* Completed entire Module 7
+* Completed Section 6 and finalized all the content.
+
 # Module 7: Reinforcement Learning for AI Reliability
 
 ## Overview
