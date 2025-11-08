@@ -28,3 +28,12 @@
 - Created a Jupyter Notebook on Topic 8: AI Agent Protocols – The Communication Foundation.
 - Explained how AI Agent Protocols standardize communication between agents, similar to how HTTP connects web systems. Focused on MCP (Model Context Protocol) by Anthropic—its   purpose, strengths (universal compatibility, real-time data access, secure design, developer-friendly setup), and limitations.
 - Google Drive: https://colab.research.google.com/drive/1SBIMiMBvrU-Aa8aRkCWN0fulEeBGPqs5?usp=drive_link
+
+- **Week 11 (31/10/2025)**
+- completed section 8 part 2
+- created lab for module 8
+- google colab : https://colab.research.google.com/drive/1wgVijewLXn8IDTrOP8e2IPHicydTZCRb
+- google colab : https://colab.research.google.com/drive/1rPEia_cia8xJS8dYoLaOiwTY80Ug7JGt
+- **Week 11 (7/11/2025)**
+- completed section 8 part 3
+- google colab : https://colab.research.google.com/drive/1dNNGUBhxdfdkOvfweuFa_Ri7fwk2Vmbc
