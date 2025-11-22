@@ -1,149 +1,257 @@
-# INFO 7375 Computational Skepticism and AI Fluency
+# **INFO 7375 — Computational Skepticism and AI Fluency**
 
-## Course Prerequisites
-- Instructor Approval: None
-- Programming Background: A strong foundation in programming is necessary.
-- Independent Research: Commitment to conducting independent research is expected.
+### *Full Course Outline (Book-Style Structure)*
 
-## Course Description
-In the age of artificial intelligence, computational models play an increasingly vital role in decision-making across various domains. However, their reliability and transparency remain critical concerns. This course explores computational methods for data validation and critical thinking to enhance trust in AI models, while developing the cognitive skills necessary for effective human-AI collaboration.
+---
 
-Through research and practical applications, students will develop systems and methodologies to:
-- Critically assess AI outputs
-- Identify biases in AI systems
-- Validate machine learning models
-- Collaborate effectively with AI systems
+# **Part I — Foundations of Computational Skepticism**
 
-The course emphasizes systematic doubt and continuous validation of AI using computational techniques and philosophical frameworks such as:
-- Probability and stochastic reasoning
-- Deep learning and model behavior
-- Reinforcement learning and agency
-- Machine learning limitations
-- Data visualization and communication
+### **Module 1 — Foundations of AI Skepticism & Botspeak Fluency**
 
-## Learning Objectives & Modules
+Core philosophical and computational principles behind systematic doubt and human-AI collaboration.
+Topics include:
 
-### Module 1: Botspeak - The Nine Pillars of AI Fluency
-* **Philosophical Foundations:** Skepticism in philosophy (Descartes, Hume, Popper).
-* **Framework Overview:** Introduction to the Botspeak framework for human-AI collaboration.
-* **The Nine Pillars:**
-  * Strategic Delegation
-  * Effective Communication
-  * Critical Evaluation
-  * Technical Understanding
-  * Ethical Reasoning
-  * Stochastic Reasoning
-  * Learning by Doing
-  * Rapid Prototyping
-  * Theoretical Foundation
-* **Interaction Modes:** Automation, Augmentation, and Agency in human-AI collaboration.
+* Skepticism in philosophy (Descartes, Hume, Popper)
+* Limits of perception (Plato’s Cave)
+* Introduction to the Botspeak framework
+* The Nine Pillars of AI Fluency
+* Interaction Modes: Automation, Augmentation, Agency
 
-### Module 2: Data Validation Techniques for AI Systems
-* **Philosophical Foundations:** Truth and falsifiability in data-driven conclusions.
-* **Critical Thinking in AI:** Can data ever be truly objective?
-* **Key Concepts:** Plato's Allegory of the Cave—Are datasets just shadows of reality?
-* **Hands-on:** Exploratory Data Analysis (EDA) to uncover hidden dataset assumptions.
-* **Integration with Botspeak:** Applying Strategic Delegation and Critical Evaluation to dataset validation.
+### **Module 2 — Logic, Probability, and Uncertainty in AI**
 
-### Module 3: Bias Detection and Mitigation in AI
-* **Philosophical Foundations:** Implicit bias and cognitive bias in shaping AI models.
-* **Critical Thinking in AI:** Do AI models reinforce existing power structures?
-* **Key Concepts:** Postmodernism and AI—Does AI reflect truth or our own biases?
-* **Hands-on:** Identifying and mitigating bias in real-world AI datasets.
-* **Integration with Botspeak:** Ethical Reasoning and Stochastic Reasoning in bias recognition.
+A rigorous foundation for reasoning under uncertainty.
+Includes:
 
-### Module 4: Explainability and Interpretability of AI Models
-* **Philosophical Foundations:** The Black Box Problem—Is understanding necessary for trust?
-* **Critical Thinking in AI:** Does it matter if we don't know how AI makes good predictions?
-* **Key Concepts:** Wittgenstein's language games—Are AI explanations meaningful or tricks?
-* **Hands-on:** Implementing SHAP and LIME explanations.
-* **Integration with Botspeak:** Technical Understanding and Effective Communication for model explainability.
+* Boolean logic → probabilistic reasoning
+* Frequentist vs Bayesian reasoning
+* Hume’s Problem of Induction
+* How AI makes (and mis-makes) predictions
+* Uncertainty quantification in machine learning
 
-### Module 5: Probabilistic Reasoning and Uncertainty in AI
-* **Philosophical Foundations:** Hume's Problem of Induction—Can we trust AI predictions?
-* **Critical Thinking in AI:** Are probabilities meaningful, or just human-made tools?
-* **Key Concepts:** Bayesian vs. Frequentist probability.
-* **Hands-on:** Using probability distributions to assess AI confidence levels.
-* **Integration with Botspeak:** Stochastic Reasoning and Theoretical Foundation principles.
+### **Module 3 — Cognitive Bias, Model Bias, and the Human–AI Feedback Loop**
 
-### Module 6: Adversarial Attacks and Robust AI Systems
-* **Philosophical Foundations:** Deception in AI—Can AI be "fooled"?
-* **Critical Thinking in AI:** If AI can be tricked, does it truly "understand"?
-* **Key Concepts:** Nietzsche and AI—"Will to power" meets adversarial attacks.
-* **Hands-on:** Designing adversarial attacks and defense mechanisms.
-* **Integration with Botspeak:** Critical Evaluation and Technical Understanding for robustness.
+Understanding bias in humans and machines.
+Covers:
 
-### Module 7: Reinforcement Learning for AI Reliability
-* **Philosophical Foundations:** Free will vs. determinism—Do AI agents "choose"?
-* **Critical Thinking in AI:** Can AI develop ethical decision-making?
-* **Key Concepts:** Utilitarianism in AI—Optimizing rewards vs. ethical outcomes.
-* **Hands-on:** Implementing reinforcement learning models.
-* **Integration with Botspeak:** Agency concepts and Ethical Reasoning principles.
+* Implicit and cognitive biases
+* Dataset bias, label bias, structural bias
+* Postmodern perspectives on truth and representation
+* How models inherit and amplify human assumptions
 
-### Module 8: Data Visualization for AI Transparency
-* **Philosophical Foundations:** The role of perception in understanding AI decisions.
-* **Critical Thinking in AI:** Can visualizations mislead us?
-* **Key Concepts:** McLuhan's "The medium is the message"—How dashboards shape AI trust.
-* **Hands-on:** Designing AI transparency visualizations.
-* **Integration with Botspeak:** Effective Communication and Rapid Prototyping techniques.
+---
 
-### Module 9: Ethical Considerations and AI Governance
-* **Philosophical Foundations:** Kant's categorical imperative—Should AI follow universal ethics?
-* **Critical Thinking in AI:** Who is accountable for AI decisions?
-* **Key Concepts:** AI as an existential risk—Bostrom's views on superintelligence.
-* **Hands-on:** Developing governance strategies and ethical frameworks.
-* **Integration with Botspeak:** Ethical Reasoning and Strategic Delegation for governance.
+# **Part II — Data, Models, and Validation Systems**
 
-### Module 10: Final Project & Research Presentations
-* **Philosophical Foundations:** The Socratic method—Using questioning to refine research.
-* **Critical Thinking in AI:** How do we truly validate AI systems?
-* **Key Concepts:** AI as a tool vs. AI as an agent.
-* **Hands-on:** Presenting research on AI validation methodologies.
-* **Integration with Botspeak:** Comprehensive application of all nine pillars to student projects.
+### **Module 4 — Data Validation Techniques for AI Systems**
 
-## Course Highlights
-- Philosophy Meets Computation – Explore the intersection of philosophy, logic, and AI, developing a critical perspective on AI's role in society.
-- Botspeak Framework – Master the nine pillars of AI Fluency for effective human-AI collaboration.
-- Hands-on Data Validation – Work with real-world datasets to identify biases, inconsistencies, and errors. Build automated AI validation pipelines.
-- Explainable AI & Model Transparency – Learn techniques such as SHAP, LIME, and counterfactual explanations to interpret AI decisions.
-- Bias Detection & Ethical AI Development – Examine AI bias and explore mitigation strategies. Engage in discussions on AI governance.
-- Adversarial AI & Robust Systems – Study adversarial attacks on AI and develop techniques to defend against them.
-- Reinforcement Learning & AI Reliability – Implement reinforcement learning strategies to create adaptable AI systems.
-- Data Visualization for AI Trust – Develop interactive dashboards and visualization techniques to communicate AI performance effectively.
-- Critical Thinking & AI Skepticism – Use logical reasoning, probabilistic thinking, and philosophical analysis to improve AI reliability.
-- Interdisciplinary Approach – Merge AI with cognitive science, philosophy, and ethics for a holistic understanding of AI validation.
-- Research-Oriented Learning – Conduct independent research projects, present findings, and collaborate with peers.
+Critical analysis of datasets as epistemic artifacts.
+Topics:
 
-## Project Component
-Students will select a subproject within the first two weeks, aligning with their background and interests, to develop AI validation tools and methodologies.
+* Exploratory data analysis for skepticism
+* Hidden assumptions in datasets
+* “Is your dataset actually what you think it is?”
+* Botspeak: Strategic Delegation & Critical Evaluation
 
-- Project Approval: Based on expertise in probability, deep learning, reinforcement learning, machine learning, or data visualization.
-- Resources: Current projects and code repositories are maintained on the INFO 7375 GitHub repository.
-- Presentations: Students will present research updates every two to three weeks.
+### **Module 5 — Model Explainability and Interpretability**
 
-## Learning Outcomes
-By the end of this course, students will:
-- Master the nine pillars of Botspeak for effective human-AI collaboration.
-- Develop computational frameworks for systematic data validation and AI model verification.
-- Gain expertise in critical thinking methodologies applied to AI and machine learning.
-- Conduct original research in AI validation, leading to professional-quality papers and projects.
-- Recognize and mitigate common biases and errors in AI models.
-- Enhance their ability to critique AI systems constructively and contribute to the broader research community.
+Interpreting black-box systems without sacrificing rigor.
+Includes:
 
-## Course Materials
-**Textbooks**
-- Title: Botspeak - The Nine Pillars of AI Fluency by Nik Bear Brown
-- Title: Computational Skepticism for AI by Nik Bear Brown (Free Online)
-- Publisher: Bear Brown & Company, LLC
-- Publication Date: May 2025
-- ISBN: [To Be Announced]
+* SHAP, LIME, counterfactuals
+* Transparency vs usefulness
+* Wittgenstein’s Language Games as a model for interpretability
+* Communicating model behavior effectively
 
-**Additional Resources**
-- Academic papers on AI validation
-- AI research reports
-- Articles on prompt engineering & Generative AI
-- Industry reports on AI failures and successes
-- AI validation toolkits and frameworks
-- Hands-on tutorials for key concepts
+### **Module 6 — Bias Detection and Mitigation**
 
-By the end of the course, students will master AI validation techniques, prompt engineering, and effective human-AI collaboration, equipping them to navigate AI-driven creativity and problem-solving across diverse fields.
+Hands-on and conceptual exploration of model bias.
+Topics:
+
+* Quantitative fairness metrics
+* Debiasing techniques
+* Ethical considerations
+* BotSpeak: Ethical Reasoning & Stochastic Reasoning
+
+### **Module 7 — Robustness, Adversarial Attacks, and Model Fragility**
+
+Examining where models break and why.
+Includes:
+
+* Adversarial examples
+* Robust ML techniques
+* Nietzsche’s “will to power” as a lens for adversarial behavior
+* Defense mechanisms and adversarial training
+
+---
+
+# **Part III — Agency, Learning, and Human–AI Interaction**
+
+### **Module 8 — Reinforcement Learning and AI Agency**
+
+Understanding RL from a skeptical and ethical perspective.
+Covers:
+
+* Reward functions as moral structures
+* Determinism vs choice in AI
+* Utilitarian reasoning in RL
+* Safety, alignment, and emergent behavior
+
+### **Module 9 — Human–AI Collaboration, Delegation, and Trust Calibration**
+
+Building the skills for effective partnership.
+Topics:
+
+* Botspeak modes of interaction
+* Cognitive offloading and socio-technical collaboration
+* Trust vs overtrust vs distrust
+* Designing workflows that align human intuition with machine computation
+
+---
+
+# **Part IV — Visualization, Communication, and Cognitive Tools**
+
+### **Module 10 — Data Visualization for AI Transparency**
+
+How visual design shapes understanding and trust.
+Includes:
+
+* Storytelling with data
+* McLuhan’s “medium is the message” applied to dashboards
+* Deceptive visualization practices
+* Building transparency-first visualization pipelines
+
+### **Module 11 — Communicating AI Findings in Academic & Industry Settings**
+
+Students learn:
+
+* Scientific writing
+* Visualization critique
+* Presentation of uncertainty
+* Botspeak’s Effective Communication pillar
+
+---
+
+# **Part V — Ethics, Governance, and the Philosophy of AI**
+
+### **Module 12 — AI Ethics, Governance, and Accountability**
+
+Deep exploration of governance frameworks.
+Covers:
+
+* Kantian vs utilitarian ethics
+* Existential risk, alignment, and emerging regulatory landscapes
+* Algorithmic accountability and responsibility
+* Ethics for generative AI systems
+
+### **Module 13 — Philosophical Limits of AI**
+
+What AI cannot do, or should not do.
+Topics:
+
+* Meaning, understanding, intentionality
+* Turing Test, Chinese Room, agency
+* The limits of data as a representation of the world
+* When skepticism becomes a required safety mechanism
+
+---
+
+# **Part VI — Research, Prototyping, and Independent Inquiry**
+
+### **Module 14 — Rapid Prototyping for Computational Skepticism**
+
+Designing tools and experiments that test model assumptions.
+Includes:
+
+* Automation for model checking
+* AI-assisted prototyping
+* Designing falsification tests
+* “Build to disprove” methodology
+
+### **Module 15 — Independent Research Project (Capstone)**
+
+Students conduct an original research project in:
+
+* AI validation
+* Bias detection
+* Explainability
+* Reinforcement Learning reliability
+* Ethical evaluation of AI behavior
+* Visualization for AI transparency
+* Human-AI collaboration workflows
+
+Deliverables include:
+
+* Research proposal
+* Midterm developmental presentations
+* Final paper & presentation
+* Demonstration of model validation pipeline
+
+---
+
+# **Course Objectives**
+
+By the end of the course, students will:
+
+### **AI Fluency & Collaboration**
+
+* Master the **Nine Pillars of Botspeak**
+* Develop situational awareness for human-AI interaction
+* Build computational systems that incorporate skepticism
+
+### **Critical Thinking & Validation**
+
+* Identify flawed assumptions in AI models
+* Analyze datasets using philosophical and computational skepticism
+* Conduct rigorous model validation & reliability testing
+
+### **Ethics & Communication**
+
+* Evaluate the ethical implications of AI systems
+* Communicate uncertainty effectively
+* Design transparent and responsible AI workflows
+
+### **Technical Competence**
+
+* Perform EDA, statistical tests, and bias audits
+* Use SHAP, LIME, and adversarial attack libraries
+* Build RL agents and evaluate their behavior
+* Develop dashboards for model transparency
+
+---
+
+# **Course Materials**
+
+### **Primary Texts**
+
+* *Botspeak: The Nine Pillars of AI Fluency* — Nik Bear Brown
+* *Computational Skepticism for AI* — Nik Bear Brown (Open Access)
+
+### **Additional Materials**
+
+* Academic papers on interpretability, bias, and model validation
+* Industry white papers on AI failures
+* Hands-on tutorials for adversarial ML, probability, dashboards
+* Selected philosophical texts (Hume, Popper, Kant, Wittgenstein)
+
+---
+
+# **Course Highlights**
+
+* Philosophy meets computation
+* Hands-on EDA, model validation, XAI, RL
+* Emphasis on critical thinking and skepticism
+* Builds human–AI collaboration skills
+* Research-driven and discussion-heavy
+* Project-oriented learning focused on real AI systems
+
+---
+
+# **Instructors & Approvals**
+
+* No instructor approval required
+* Strong programming background recommended
+* Commitment to independent research expected
+
+---
+
+If you want a **syllabus PDF**, a **Canvas-ready version**, a **GitHub repository scaffold**, or **lecture slides for each module**, I can generate them next.
