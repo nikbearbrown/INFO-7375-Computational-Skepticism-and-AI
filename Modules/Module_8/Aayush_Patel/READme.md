@@ -41,16 +41,20 @@
 -**Week 13 (14/11/2025)**
 - completed research on topic Practical Applications in Explainable AI (XAI) Education
 -google colab : https://colab.research.google.com/drive/1xQMkqI-PinLZkIkdzRc5EEhmim55CBaF#scrollTo=LSAvwPX212D-
+
 -**Week 14 (21/11/2025)**
 - completed jupyter notebook on  ACP (Agent Communication Protocol)
 - google colab : https://colab.research.google.com/drive/14apVPhmNDf71goi4Od56R5q4VutrYud7
+
 -**Week 15 (28/11/2025)**
 
 - completed research on topic AGP (Agent Gateway Protocol)
 - google colab: https://colab.research.google.com/drive/16FnyQNOH7qFK7eHc8pcgGqhe-0_bsf9-
+
 -**Week 16 (05/12/2025)**
 - completed research on topic AGP (Agent Gateway Protocol) best use cases 
 - google colab: https://colab.research.google.com/drive/1oU60ridweRqVMD9xBSqlA6uGmznw4BoJ#scrollTo=ZxE2JfVH78P0
+
 -**Week 16 (12/12/2025)**
 - completed research on topic  ACP (Agent Communication Protocol) best use cases 
 - google colab: https://colab.research.google.com/drive/1fIUGHccdP8E6-kRmtWBlWvIjgPSgMJT9
