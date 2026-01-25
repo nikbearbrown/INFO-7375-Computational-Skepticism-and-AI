@@ -58,3 +58,20 @@
 -**Week 16 (12/12/2025)**
 - completed research on topic  ACP (Agent Communication Protocol) best use cases 
 - google colab: https://colab.research.google.com/drive/1fIUGHccdP8E6-kRmtWBlWvIjgPSgMJT9
+
+-**Week 17 (01/02/2026)**
+- completed research on topic ANP (Agent Network Protocol)
+- google colab: https://colab.research.google.com/drive/1Xb2dVZMXsRUxhrl_LDHREGMdzDiBrB8O#scrollTo=zNti8g8sKDMB
+
+-**Week 18 (01/09/2026)**
+- completed research on topic Performance Optimization of ANP (Agent Network Protocol)
+- google colab: https://colab.research.google.com/drive/1O3xkfoB4jiFDF1Ku_bfCRUMBqo6_LhIF#scrollTo=wIk67YZWLTY0
+
+-**Week 19 (01/16/2026)**
+- completed research on topic Securing Multi-Agent Systems: A Comprehensive Security Framework for ANP
+- google colab: https://colab.research.google.com/drive/14T9YFYwe5M2-EF86OXcOa4496YOTY4N2
+
+-**Week 20 (01/23/2026)**
+- completed research on topic LLM-Powered Agents in ANP: Architecture and Communication Patterns
+- google colab: https://colab.research.google.com/drive/1etG7sz3IQ4Ngc7tp355YeEBrnFtH5eOE
+  
