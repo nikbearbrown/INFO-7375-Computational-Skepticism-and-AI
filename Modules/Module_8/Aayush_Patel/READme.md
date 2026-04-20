@@ -74,4 +74,47 @@
 -**Week 20 (01/23/2026)**
 - completed research on topic LLM-Powered Agents in ANP: Architecture and Communication Patterns
 - google colab: https://colab.research.google.com/drive/1etG7sz3IQ4Ngc7tp355YeEBrnFtH5eOE
+
+-**Week 21 (01/30/2026)**
+- completed reaserch on Key Design Patterns for Agentic AI
+- working on ai support agent project also learning rag, langchain, agentic ai workflows
+- colab: https://colab.research.google.com/drive/1822HFtUDbrR0xc2LD6ecdYLiX17h0FSQ#scrollTo=uCM4LShFb7eC
   
+-**Week 22 (02/06/2026)**
+- Stakeholder-Specific Visualization Design Tailoring visualizations for different audiences and use cases for the Technical Stakeholders
+- Developer-focused debugging and diagnostic visualizations, Data scientist model evaluation and comparison interfaces, System administrator monitoring and performance dashboards, Researcher-oriented experimental analysis tools
+- google colab: https://colab.research.google.com/drive/1Eqp3ifsipNJw4XjH-PwbWa7tILXLLEAF#scrollTo=0JsQWMFSeE38
+
+-**Week 23 (02/13/2026)**
+- Visualization Design Tailoring visualizations for:
+  Business and Management: Executive decision-making support visualizations, Risk assessment and compliance monitoring displays
+ROI and performance metric dashboards, Strategic planning and resource allocation interfaces
+
+End Users and General Public:
+Consumer-facing AI explanation interfaces
+Educational visualizations for AI literacy
+Citizen engagement tools for AI policy discussion
+Accessibility considerations in AI visualization design
+
+- google colab: https://colab.research.google.com/drive/1o_7BnkzN8PfHWJ8VWJBgtVXPOybWjmb5#scrollTo=Z5yZYcOafUOG
+-**Week 24 (02/20/2026)**
+- Memory systems — the notes cover Perceive/Reason/Act/Learn but don't explain how agents store and retrieve context (short-term, long-term, episodic, semantic memory distinctions) so added this
+- google colab: https://colab.research.google.com/drive/1ZqdbbkF2x3R4b32UW9rtvmTwYayTSVOl#scrollTo=Wrk6v-ccgcva
+-**Week 25 (02/27/2026)**
+- Prompt engineering for agents; ReAct, Chain-of-Thought, and Tree-of-Thought prompting patterns
+- google colab: https://colab.research.google.com/drive/1R33AMHXm5w4nFJVeUgzO4kVaKuYieAMP#scrollTo=otQtwsznh0BZ
+
+
+-**Week 26 (03/06/2026)**
+- Agent evaluation and benchmarks — how do you actually measure if an agent is performing well? GAIA, AgentBench, etc.
+- colab: https://colab.research.google.com/drive/1gj4nQXDcvlr06NtfqMGWEK3Av7J_2sPV#scrollTo=3fHnFAhbiM38
+
+
+
+-**Week 27 (03/13/2026)**
+- Error handling and recovery — what happens when a tool call fails or an agent gets stuck in a loop?
+- colab: https://colab.research.google.com/drive/1ZGHJiUkwUM9dmBmfH2tg5qOlpmArMg7j#scrollTo=vydPXF0zjaVR
+-**Week 28 (03/20/2026)**
+- Orchestration frameworks — LangGraph, CrewAI, AutoGen, LlamaIndex Workflows; students will ask "how do I build one?"
+- colab: https://colab.research.google.com/drive/1C6-pO09QFHTIuZTUbkpxHbhUqW9pBTAb#scrollTo=bydtpZZtk1-f
+
