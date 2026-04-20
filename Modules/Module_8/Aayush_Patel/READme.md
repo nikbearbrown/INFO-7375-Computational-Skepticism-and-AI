@@ -118,3 +118,20 @@ Accessibility considerations in AI visualization design
 - Orchestration frameworks — LangGraph, CrewAI, AutoGen, LlamaIndex Workflows; students will ask "how do I build one?"
 - colab: https://colab.research.google.com/drive/1C6-pO09QFHTIuZTUbkpxHbhUqW9pBTAb#scrollTo=bydtpZZtk1-f
 
+
+-**Week 29 (03/27/2026)**
+- RAG deep dive — it's mentioned once but is central to how most agents access knowledge
+- google colab: https://colab.research.google.com/drive/1xz5RHe_SWmtsXFt5zAoo_iK2Rkv5m_6S#scrollTo=gi89n8S_lNgC
+
+-**Week 30 (04/03/2026)**
+- Human-in-the-loop (HITL) design — when to interrupt autonomy, approval gates, confidence thresholds
+- google colab: https://colab.research.google.com/drive/1X_NQXdB9-D1RpWmuJnCmKujbDDCQOYJi#scrollTo=-G4z9_44nupc
+ 
+  
+-**Week 31 (04/10/2026)**
+- Agent security and prompt injection — a real attack surface that's barely covered under "security"
+- google colab: https://colab.research.google.com/drive/1eQSAFLpXfvQXNBiNJo1MhjYQdAo0HsIs#scrollTo=vkDXn9mQoMtd
+
+-**Week 32 (04/17/2026)**
+- Cost and latency tradeoffs — agentic chains are expensive; this is very practical knowledge
+- google colab: https://colab.research.google.com/drive/14NcvKy3EwtxWQY32UteLdzV7KAawViDy#scrollTo=-ihF1lJPp9K2
